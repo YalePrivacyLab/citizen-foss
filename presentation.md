@@ -3,12 +3,12 @@
 # Citizen ==FOSS==
 #### ***Snowden's toolkit — for the Rest of Us.***
 # ![40% center](images/digital-security.svg)
-<!-- Flaticon digital-security -->
+<!-- Digital security icon -->
 ##### A Presentation &amp; Guide by Sean O'Brien
 
 ##### sean@webio.me | sean.obrien@yale.edu
 
-###### <span style="float:right;">![](images/cc-by-sa.svg)</span>
+###### <span style="float:right;">[![](images/cc-by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)</span>
 <!-- Creative Commons Attribution-ShareAlike -->
 
 ---
@@ -102,7 +102,7 @@ If the pad name is guessed or shared, anyone can view it.</small>
 <!-- page_number: true -->
 
 ## Snowden Documents<span style="float:right;">![50%](images/citizen-four.jpg)</span>
-<!-- All The Things meme -->
+<!-- Screenshot from Citizenfour -->
 #### Major takeaways:
 
 ==1.== **The Bad News:**
@@ -134,11 +134,12 @@ Snowden was able to communicate extremely sensitive information despite this, us
 <!-- page_number: true -->
 
 #### What about iPhones, WhatsApp, Facebook?
-<span style="float:right;">![38%](images/whatsapp-question.png)</span>
-<!-- WhatsApp questions -->
+<span style="float:right;">![48%](images/whatsapp-question.png)</span>
+<!-- Person confused about security in corporate messengers -->
 Some U.S. corporations now encrypt some communication, making ==mass surveillance== like [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)) difficult.
 
-* <small>Why trust these companies? Fool me twice, shame on me.</small>
+* <small>Why trust these companies? 
+Fool me twice, shame on me.</small>
 
 * <small>On Facebook &amp; WhatsApp, your **metadata** and **social graph** are stored and studied.</small>
 
@@ -217,7 +218,7 @@ with the person to your left, add them as a buddy.<span style="float:right;margi
 <!-- page_number: true -->
 
 <span style="float:right;">![32%](images/tuxes.png)</span>
-<!-- See No, Hear No, Speak No Evil - Everaldo or Crystal icon Tux penguins -->
+<!-- See No, Hear No, Speak No Evil -->
 ## Oﬀ The Record (==OTR==)
 Text chat/IM is very safe, **if conﬁgured correctly.**
 
@@ -237,7 +238,7 @@ Check the settings and make sure you're not logging chats.</small>
 # Free Software ==in context==
 #### Digital security requires software freedom.
 # [![80%](images/stallman-tedx.jpg)](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society)
-<!-- CyberSec101 "Why Privacy Matters" -->
+<!-- "Why Privacy Matters" -->
 ###### [Watch on YouTube:arrow_right:](https://www.youtube.com/watch?v=Ag1AKIl_2GM) 
 
 ---
@@ -300,7 +301,7 @@ casual communication is carefully studied.</small>
 ---
 <!-- page_number: true -->
 <span style="float:right;">![23%](images/duckduckgo.png)</span>
-<!-- Heisenberg sketch from Breaking Bad -->
+<!-- DuckDuckGo logo with sunglasses -->
 ### Better Search w/ ==DuckDuckGo==
 
 <small>[DontTrack.us](https://donttrack.us/): problems with Google, contrasted with DDG.</small>
@@ -355,7 +356,7 @@ Here are some password strength, storage, and retention strategies.
 ## ==Anonymous== Web Browsing
 [Download Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en)
 <small>It's Firefox, but anonymous! Security plugins pre-installed.</small><span style="float:right;">![40%](images/tor-obfs.png)</span>
-<!-- Dr. Steve Brule -->
+<!-- Pluggable Transports icon -->
 
 **Tor is the standard for anonymity.**
 <small>The Tor network thwarts the NSA's best efforts to
@@ -407,7 +408,7 @@ Other Deep Web networks: [I2P](https://geti2p.net/en/) &amp; [Freenet](https://f
 # How a ==VPN== Works
 #### Watch this before you try any VPN.
 # [![100%](images/vpn-video.png)](https://www.youtube.com/watch?v=zpUHD-PQuZg)
-<!-- Codemy School -->
+<!-- How a VPN works -->
 ###### [Watch on YouTube:arrow_right:](https://www.youtube.com/watch?v=zpUHD-PQuZg) 
 
 ---
@@ -443,7 +444,7 @@ Other Deep Web networks: [I2P](https://geti2p.net/en/) &amp; [Freenet](https://f
 ### ==Tails== is the Tor operating system
 #### Follow the [Tails Installation Assistant](https://tails.boum.org/install/index.en.html)
 * Tails **does not use your hard drive**, or require any hard drive at all.
-* Tails boots from USB stick, CD/DVD, or [virtual machine](https://virtualbox.org).<span style="float:right;margin-top:12px;">[![60%](images/tails-screenshot.png)](https://www.youtube.com/watch?v=sFtziTT69Go)</span>
+* Tails boots from USB stick, CD/DVD, or [virtual machine](https://virtualbox.org).<span style="float:right;margin-top:12px;">[![60%](images/tails-screenshot.png)](https://www.youtube.com/watch?v=sFtziTT69Go)</span><!-- TAILS screenshot -->
 * You may optionally set up ==persistent storage== for Tails. Otherwise, all files go **&#42;poof&#42;** when you shut down.
 
 Not working? [Try Whonix](https://www.whonix.org/).
@@ -451,7 +452,7 @@ Not working? [Try Whonix](https://www.whonix.org/).
 ---
 <!-- page_number: true -->
 
-###### In contrast to Tails...<span style="float:right;">![32%](images/no-windows.png)</span><!-- cropped logo from FSF Bad Seven campaign -->
+###### In contrast to Tails...<span style="float:right;">![32%](images/no-windows.png)</span><!-- Cropped logo from FSF Bad Windows campaign -->
 ### ==Windows== can't be trusted.
 
 * <small>Surveillance is [difficult or impossible to turn off](https://lifehacker.com/what-windows-10s-privacy-nightmare-settings-actually-1722267229).</small>
@@ -465,7 +466,7 @@ Not working? [Try Whonix](https://www.whonix.org/).
 ---
 <!-- page_number: true -->
 
-<span style="float:right;">[![70%](images/ghosts.png)](https://www.youtube.com/watch?v=Ag1AKIl_2GM)</span><!-- ghosts diagram from Richard Stallman's 2014 TED Talk -->
+<span style="float:right;">[![70%](images/ghosts.png)](https://www.youtube.com/watch?v=Ag1AKIl_2GM)</span><!-- Ghosts slide from Richard Stallman's 2014 TEDx talk -->
 ### Security Is ==Not Proprietary==
 Recall [Richard Stallman's TED Talk](https://www.youtube.com/watch?v=Ag1AKIl_2GM).
 
@@ -495,12 +496,12 @@ Recall [Richard Stallman's TED Talk](https://www.youtube.com/watch?v=Ag1AKIl_2GM
 # What is =="Linux"==?
 #### "Linux" explained, in four minutes.
 # [![100%](images/gnu-linux-video.png)](https://www.youtube.com/watch?v=tFFNiMV27VY)
-<!-- The Linux Gamer -->
+<!-- Linux explained -->
 ###### [Watch on YouTube:arrow_right:](https://www.youtube.com/watch?v=tFFNiMV27VY) 
 
 ---
 <!-- page_number: true -->
-<span style="float:right;">[![75%](images/trisquel.svg)](http://trisquel.info)</span><!-- Linux kernel's Tux and the GNU Gnu -->
+<span style="float:right;">[![75%](images/trisquel.svg)](http://trisquel.info)</span><!-- Trisquel logo -->
 ### The GNU/Linux ==Distro== For You
 
 **Most ==libre==** <small>(no proprietary drivers, codecs, etc.)</small>
@@ -534,6 +535,7 @@ Let's concentrate on ==Android== variants, which are based upon GNU/Linux.
 
 ### There is a world <span style="color:#ffeeb5;">beyond Google</span>.
 ### [![42%](images/phone-screenshot.png)](https://copperhead.co/android/)
+<!-- screenshot of AOSP with no Google services, F-Droid, Orbot, etc. -->
 
 ---
 <!-- page_number: true -->
@@ -561,7 +563,7 @@ ROMs in the ==modding== community are loosely equivalent to distros / ==firmware
 ---
 <!-- page_number: true -->
 
-<span style="float:right;">[![300%](images/f-droid.svg)](http://f-droid.org/)</span><!-- F-Droid -->
+<span style="float:right;">[![300%](images/f-droid.svg)](http://f-droid.org/)</span><!-- F-Droid logo -->
 <small>**1.** [Install **F-Droid**](http://f-droid.org/), the FOSS app store for Android. You may have to "[allow unknown sources](https://developer.android.com/distribute/tools/open-distribution.html)".</small>
 
 <small>**2.** [Add the **Guardian Project** repository](https://guardianproject.info/fdroid/) in F-Droid. GP offers privacy apps like [ObscuraCam](https://guardianproject.info/apps/obscuracam/).</small>
@@ -577,7 +579,7 @@ ROMs in the ==modding== community are loosely equivalent to distros / ==firmware
 ---
 <!-- page_number: true -->
 
-<span style="float:right;">![90%](images/eavesdropping.png)</span><!-- Section of Tor / HTTPS diagram from https://www.eff.org/pages/tor-and-https -->
+<span style="float:right;">![90%](images/eavesdropping.png)</span><!-- Section of Tor and HTTPS diagram from https://www.eff.org/pages/tor-and-https -->
 ## What about my ==Router==?
 Your gateway to the Internet may be insecure. Default router / modem firmware [has](https://en.wikipedia.org/wiki/NSA_ANT_catalog) [many](https://www.schneier.com/blog/archives/2014/01/jetplow_nsa_exp.html) [vulnerabilities](https://en.wikipedia.org/wiki/Dual_EC_DRBG#Software_and_hardware_which_contained_the_possible_backdoor) and is [often](https://en.wikipedia.org/wiki/Equation_Group) [under](https://en.wikipedia.org/wiki/The_Shadow_Brokers) [attack](http://www.techrepublic.com/article/massive-ddos-attacks-up-138-from-last-year-says-akamai-report/).
 
@@ -596,7 +598,7 @@ Your gateway to the Internet may be insecure. Default router / modem firmware [h
 # Intro to ==Encryption==
 #### How math can keep us secure.
 # [![100%](images/encryption-video.png)](https://www.youtube.com/watch?v=ZghMPWGXexs)
-<!-- Code.org -->
+<!-- Encryption -->
 ###### [Watch on YouTube:arrow_right:](https://www.youtube.com/watch?v=ZghMPWGXexs) 
 
 ---
@@ -632,7 +634,7 @@ Expect large, consistent ==data breaches==.
 ---
 <!-- page_number: true -->
 
-<span style="float:right;">[![140%](images/podesta-pass.png)](https://wikileaks.org/podesta-emails/emailid/22335#efmABbABs)</span><!-- one of John Podesta's insecure passwords shared via e-mail -->
+<span style="float:right;">[![140%](images/podesta-pass.png)](https://wikileaks.org/podesta-emails/emailid/22335#efmABbABs)</span><!-- One of John Podesta's insecure passwords shared via e-mail -->
 ### ==E-mail== is an easy target
 
 * E-mail is often sent and received insecurely, yet users treat it as a secure channel.
@@ -658,7 +660,7 @@ Expect large, consistent ==data breaches==.
 ---
 <!-- page_number: true -->
 
-<span style="float:right;">[![18%](images/tutanota.png)](https://tutanota.com)</span><!-- Tutanota -->
+<span style="float:right;">[![18%](images/tutanota.png)](https://tutanota.com)</span><!-- Tutanota logo -->
 ### The Road to Private ==Webmail==
 ###### Create a [Tutanota](https://tutanota.com/) account. Use ==Tor Browser== if you can.
 
@@ -710,7 +712,7 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 <!-- *template: invert -->
 <!-- page_number: false -->
 
-### <span style="color:#ffeeb5;">Secure Comms Strategy</span><span style="float:right;">![75%](images/cone-of-silence.jpg)</span><!-- The mobile cone of silence from Get Smart -->
+### <span style="color:#ffeeb5;">Secure Comms Strategy</span><span style="float:right;">![75%](images/cone-of-silence.jpg)</span><!-- The portable cone of silence from Get Smart -->
 #### Make a plan and stick to it.
 * The <span style="color:#ffeeb5;">**What**</span>: Choose a few crypto, sharing, &amp; publishing tools.
 * The <span style="color:#ffeeb5;">**How**</span>: Try these tools, figure out how they work.
@@ -725,7 +727,7 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 <!-- page_number: false -->
 
 ## Resources<span style="float:right;">[![58%](images/apt-get-anarchism.png)](https://debian.org)</span>
-<!-- Debian apt-get anarchism -->
+<!-- Debian apt-get install anarchism -->
 * Free Software Foundation: [fsf.org](https://fsf.org/)
 * Tor Project: [torproject.org](https://torproject.org/)
 * Electronic Frontier Foundation: [eff.org](https://eff.org/)
@@ -741,6 +743,126 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 
 ---
 <!-- page_number: false -->
-<span style="float:right;">![25%](images/gnu-meditate.png)</span>
-<!-- Debian apt-get anarchism -->
+<span style="float:right;">![15%](images/gnu-meditate.png)</span>
+<!-- Meditating Gnu -->
 ## Sources
+
+* <small>[Digital Security icon](http://www.flaticon.com/free-icon/digital-security_749420), Freepik, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
+
+* <small>[Rick McCallum describing *Star Wars: Episode I*](https://www.youtube.com/watch?v=qvc9_GDoWI4)</small>
+
+* <small>["All the Things" meme](http://knowyourmeme.com/memes/x-all-the-y), based on Allie Brosh comic</small>
+
+* <small>Screenshot from ["Why Privacy Matters" video](https://www.youtube.com/watch?v=9I7AGRUPIIE), CyberSec101</small>
+
+* <small>Edward Snowden and Glenn Greenwald from [*Citizenfour*](https://en.wikipedia.org/wiki/Citizenfour)</small>
+
+* <small>[Story on Yahoo! data breach](https://reason.com/archives/2016/10/11/more-security-holes-like-yahoos), Reason.com</small>
+
+* <small>Screenshot of [PRISM Break](https://prism-break.org/en/all/#social-networks), [GNU GPLv3](https://github.com/nylira/prism-break/blob/master/LICENSE.md)</small>
+
+* <small>[Confused student](http://www.flaticon.com/free-icon/student-with-doubts-on-class_43320), Freepik, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
+
+* <small>[WhatsApp icon](http://www.flaticon.com/free-icon/student-with-doubts-on-class_43320), Freepik, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
+
+* <small>[Facebook Messenger icon](http://www.flaticon.com/free-icon/messenger_134938), Madebyoliver, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
+
+---
+<!-- page_number: false -->
+
+### Sources (continued)
+
+* <small>[Apple icon](http://www.flaticon.com/free-icon/apple_179309), Pixel Buddha, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
+
+* <small>Screenshot of [Jitsi Meet](https://meet.jit.si) with Animal and Kermit from *The Muppets*</small>
+
+* <small>[Spider-Man meme](http://knowyourmeme.com/memes/60s-spider-man), based on 60's animated series</small>
+
+* <small>[Screenshot of Cryptocat](https://commons.wikimedia.org/wiki/File:ChatWindow.png), Nadim Kobeissi, public domain</small>
+
+* <small>["See no, Hear no, Speak no" penguins](http://truckitos.es.tl/Galeria/kat-1-1.htm), Crystal Icons by Everaldo Coelho, [GNU LGPLv2 or later](http://www.gnu.org/copyleft/lgpl.html)</small>
+
+* <small>Screenshot from [Richard Stallman TEDx talk](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society), [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/)</small>
+
+* <small>[Mugshot of Bill Gates](https://commons.wikimedia.org/wiki/File:Bill_Gates_mugshot.png), public domain</small>
+
+* <small>Randy Marsh and "member berries" from *South Park*</small>
+
+* <small>Sketch of "Heisenberg" from *Breaking Bad*</small>
+
+---
+<!-- page_number: false -->
+
+### Sources (continued)
+
+* <small>[DuckDuckGo logo](https://commons.wikimedia.org/wiki/File:DuckDuckGo_logo_and_wordmark_(2014-present).svg), DuckDuckGo, Inc., [GNU GPLv1 or later](https://github.com/duckduckgo/community-platform/blob/master/LICENSE) or [Artistic License](http://www.perlfoundation.org/artistic_license_1_0)</small>
+
+* <small>John C. Reilly from *Check It Out! with Dr. Steve Brule*</small>
+
+* <small>Screenshot from ["Tor Animation" video](https://www.youtube.com/watch?v=JWII85UlzKw), Tor Project, [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/)</small>
+
+* <small>[Pluggable Transports icon](https://www.torproject.org/images/icon-Obfsproxy.jpg), Tor Project, [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/)</small>
+
+* <small>["A Dell Rolling in the Deep" meme](http://weknowmemes.com/2012/05/a-dell-rolling-in-the-deep/)</small>
+
+* <small>[Man-in-the-Middle diagram](https://en.wikipedia.org/wiki/File:Man-in-the-middle-comunicacaointerceptada.png), public domain</small>
+
+* <small>Screenshot from ["How a VPN Works" video](https://www.youtube.com/watch?v=zpUHD-PQuZg), Codemy School</small>
+
+* <small>[Creative Commons heart](https://creativecommons.org/images/deed/logo-cc-heart-green.png), Creative Commons, [CC 0](https://wiki.creativecommons.org/wiki/CC0)</small>
+
+* <small>[Logo from "Home Taping Is Killing Music" campaign](https://en.wikipedia.org/wiki/File:Home_taping_is_killing_music.png)</small>
+
+* <small>[Tails](https://tails.boum.org/) screenshot, Sean O'Brien, [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) or [GNU GPLv3 or later](https://www.gnu.org/licenses/gpl.html)</small>
+
+---
+<!-- page_number: false -->
+
+### Sources (continued)
+
+* <small>[Logo from "Bad Windows" campaigns](https://commons.wikimedia.org/wiki/File:BadSeven_no_littering.svg), Free Software Foundation, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)</small>
+
+* <small>Slide from [Richard Stallman TEDx talk](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society), [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/)</small>
+
+* <small>[GNU Project logo](https://commons.wikimedia.org/wiki/File:The_GNU_logo.png), Aurélio A. Heckert, [Free Art License](http://artlibre.org/licence.php/lalgb.html)</small>
+
+* <small>[Tux the Linux mascot](https://commons.wikimedia.org/wiki/File:Tux.png), Larry Ewing and GIMP</small>
+
+* <small>Screenshot from ["What Is Linux" video](https://www.youtube.com/watch?v=tFFNiMV27VY), The Linux Gamer</small>
+
+* <small>[Trisquel logo](https://www.gnu.org/graphics/trisquel.html), Rubén Rodríguez Pérez, [GNU GPLv2 or later](https://www.gnu.org/licenses/gpl.html)</small>
+
+* <small>[Tux the penguin as Neo from *The Matrix*](http://truckitos.es.tl/Galeria/kat-1-1.htm), Crystal Icons by Everaldo Coelho, [GNU LGPLv2 or later](http://www.gnu.org/copyleft/lgpl.html)</small>
+
+* <small>Android plus [F-Droid](https://f-droid.org/) screenshot, Sean O'Brien, [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) or [GNU GPLv3 or later](https://www.gnu.org/licenses/gpl.html)</small>
+
+* <small>Cover of [*ROM Spaceknight* #1](https://en.wikipedia.org/wiki/Rom_(comics)#/media/File:Rom-1.jpg), Sal Buscema for Marvel Comics</small>
+
+* <small>[F-Droid logo](https://commons.wikimedia.org/wiki/File:F-Droid_Logo_4.svg), William Theaker, Robert Martinez, and Andrew Nayenko, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) or [GNU GPLv3 or later](https://www.gnu.org/licenses/gpl.html)</small>
+
+* <small>["Tor and HTTPS" diagram](https://www.eff.org/pages/tor-and-https), Electronic Frontier Foundation, [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/)</small>
+
+---
+<!-- page_number: false -->
+
+### Sources (continued)
+
+* <small>Screenshot from ["The Internet: Encryption" video](https://www.youtube.com/watch?v=ZghMPWGXexs), Code.org</small>
+
+* <small>["Encrypt All the Things" meme](http://knowyourmeme.com/memes/x-all-the-y), based on Allie Brosh comic</small>
+
+* <small>["Texts from Hillary" meme](http://knowyourmeme.com/memes/texts-from-hillary), based on 2011 photo of Hillary Clinton</small>
+
+* <small>[jpodesta p@ssw0rd](https://wikileaks.org/podesta-emails/emailid/22335#efmABbABs), Wikileaks *Podesta Emails* archive</small>
+
+* <small>[Tutanota logo](https://commons.wikimedia.org/wiki/File:Tutanota_Logo.png), Tutao GmbH, [GNU GPLv2 or later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)</small>
+
+* <small>[Mozilla Thunderbird logo](https://www.mozilla.org/en-US/styleguide/identity/thunderbird/logo/), Mozilla Foundation, [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/) or [MPL 2](https://www.mozilla.org/en-US/MPL/2.0/)</small>
+
+* <small>["Evil Kermit" meme](http://knowyourmeme.com/memes/evil-kermit), based on [*Muppets Most Wanted*](https://en.wikipedia.org/wiki/Muppets_Most_Wanted) screenshot</small>
+
+* <small>The "portable cone of silence" from [*Get Smart*](https://en.wikipedia.org/wiki/Cone_of_Silence_(device))</small>
+
+* <small>[apt-get install anarchism](http://www.debian.ch/merchandise/), Chen-Da and Patrick, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) or [GNU LGPLv3 or later](http://www.gnu.org/copyleft/lgpl.html)</small>
+
+* <small>[Meditating Gnu](https://www.gnu.org/graphics/meditate.html), Nevrax Design, [GNU GPLv3 or later](https://www.gnu.org/licenses/gpl.html) or [GNU FDL](https://www.gnu.org/licenses/fdl.html)</small>
