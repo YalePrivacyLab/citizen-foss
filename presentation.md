@@ -523,7 +523,7 @@ Recall [Richard Stallman's TED Talk](https://www.youtube.com/watch?v=Ag1AKIl_2GM
 ### What about my phone/tablet?<span style="float:right;">[![55%](images/neo-tux.png)](https://www.youtube.com/watch?v=k84FMc1GF8M)</span><!-- Tux as Neo from The Matrix -->
 Let's concentrate on ==Android== variants, which are based upon GNU/Linux.
 
-**Stock Android is insecure.** It includes proprietary apps from ==Google==, the ==vendor== (e.g. Samsung), &amp; ==ISP== (e.g. AT&amp;T). It may have backdoors for [foreign spies](http://www.consumerreports.org/privacy/what-you-need-to-know-about-phones-secretly-sending-data-china/).
+**Stock Android is insecure.** It has [dodgy](http://www.eweek.com/mobile/gooligans-malware-infects-more-than-1.3-million-devices-researchers-say.html) proprietary apps from ==Google==, the ==vendor== (e.g. Samsung), &amp; ==ISP== (e.g. AT&amp;T). It may have [backdoors for spies](http://www.consumerreports.org/privacy/what-you-need-to-know-about-phones-secretly-sending-data-china/).
 
 **Some Android devices are  restrictive.** Your current device may not allow you to "free" it.  If so, ==keep freedom in mind== for your next device.
 
