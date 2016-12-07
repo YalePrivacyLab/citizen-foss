@@ -553,6 +553,20 @@ ROMs in the ==modding== community are loosely equivalent to distros / ==firmware
 **Blackphone from [Silent Circle](http://silentcircle.com/)** -  Made by prominent security experts, relies upon proprietary services.
 
 ---
+<!-- page_number: true -->
+
+<span style="float:right;">[![17%](images/alice-in-wonderland.png)](https://en.wikipedia.org/wiki/Rabbit_hole)</span><!-- Alice in Wonderland unlocking a tiny door. "Down the Rabbit Hole" is the expression I want here, but I can't find a decent image of that :/ -->
+## Got ==r00t==?
+==rooting== a device means getting ==superuser== / ==sysadmin== access. It's a Unix-y term for [full control of a system](https://en.wikipedia.org/wiki/Superuser). 
+
+**With Great Power Comes Great Responsibility.**
+Root ==**may**== be needed ==**temporarily**== to free your device. ROMs usually allow you to [turn it on and off](https://www.cyanogenmod.org/blog/security-and-you).
+
+**Unlocked Bootloader:** If this is a step in the [ROM installation process](https://wiki.cyanogenmod.org/w/Install_CM_for_angler#Unlocking_the_bootloader), you should lock it afterward.
+
+**It's all part of the fun!** Back up your files, follow instructions, and use a "test device" if possible.
+
+---
 <!-- *template: gaia -->
 <!-- page_number: false -->
 
@@ -761,18 +775,16 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 
 * <small>Screenshot of [PRISM Break](https://prism-break.org/en/all/#social-networks), [GNU GPLv3](https://github.com/nylira/prism-break/blob/master/LICENSE.md)</small>
 
-* <small>[Confused student](http://www.flaticon.com/free-icon/student-with-doubts-on-class_43320), Freepik, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
-
-* <small>[WhatsApp icon](http://www.flaticon.com/free-icon/student-with-doubts-on-class_43320), Freepik, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
+* <small>[Confused student](http://www.flaticon.com/free-icon/student-with-doubts-on-class_43320) &amp; [WhatsApp icon](http://www.flaticon.com/free-icon/student-with-doubts-on-class_43320), Freepik, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
 
 * <small>[Facebook Messenger icon](http://www.flaticon.com/free-icon/messenger_134938), Madebyoliver, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
+
+* <small>[Apple icon](http://www.flaticon.com/free-icon/apple_179309), Pixel Buddha, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
 
 ---
 <!-- page_number: false -->
 
 ### Sources (continued)
-
-* <small>[Apple icon](http://www.flaticon.com/free-icon/apple_179309), Pixel Buddha, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
 
 * <small>Screenshot of [Jitsi Meet](https://meet.jit.si) with Animal and Kermit from *The Muppets*</small>
 
@@ -790,14 +802,14 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 
 * <small>Sketch of "Heisenberg" from *Breaking Bad*</small>
 
+* <small>[DDG logo](https://commons.wikimedia.org/wiki/File:DuckDuckGo_logo_and_wordmark_(2014-present).svg), DuckDuckGo, Inc., [GNU GPLv1 or later](https://github.com/duckduckgo/community-platform/blob/master/LICENSE) or [Artistic License](http://www.perlfoundation.org/artistic_license_1_0)</small>
+
+* <small>John C. Reilly from *Check It Out! with Dr. Steve Brule*</small>
+
 ---
 <!-- page_number: false -->
 
 ### Sources (continued)
-
-* <small>[DuckDuckGo logo](https://commons.wikimedia.org/wiki/File:DuckDuckGo_logo_and_wordmark_(2014-present).svg), DuckDuckGo, Inc., [GNU GPLv1 or later](https://github.com/duckduckgo/community-platform/blob/master/LICENSE) or [Artistic License](http://www.perlfoundation.org/artistic_license_1_0)</small>
-
-* <small>John C. Reilly from *Check It Out! with Dr. Steve Brule*</small>
 
 * <small>Screenshot from ["Tor Animation" video](https://www.youtube.com/watch?v=JWII85UlzKw), Tor Project, [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/)</small>
 
@@ -815,16 +827,16 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 
 * <small>[Tails](https://tails.boum.org/) screenshot, Sean O'Brien, [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) or [GNU GPLv3 or later](https://www.gnu.org/licenses/gpl.html)</small>
 
----
-<!-- page_number: false -->
-
-### Sources (continued)
-
-* <small>[Logo from "Bad Windows" campaigns](https://commons.wikimedia.org/wiki/File:BadSeven_no_littering.svg), Free Software Foundation, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)</small>
+* <small>["Bad Windows" logo](https://commons.wikimedia.org/wiki/File:BadSeven_no_littering.svg), Free Software Foundation, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)</small>
 
 * <small>Slide from [Richard Stallman TEDx talk](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society), [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/)</small>
 
 * <small>[GNU Project logo](https://commons.wikimedia.org/wiki/File:The_GNU_logo.png), Aurélio A. Heckert, [Free Art License](http://artlibre.org/licence.php/lalgb.html)</small>
+
+---
+<!-- page_number: false -->
+
+### Sources (continued)
 
 * <small>[Tux the Linux mascot](https://commons.wikimedia.org/wiki/File:Tux.png), Larry Ewing and GIMP</small>
 
@@ -837,6 +849,8 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 * <small>Android plus [F-Droid](https://f-droid.org/) screenshot, Sean O'Brien, [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) or [GNU GPLv3 or later](https://www.gnu.org/licenses/gpl.html)</small>
 
 * <small>Cover of [*ROM Spaceknight* #1](https://en.wikipedia.org/wiki/Rom_(comics)#/media/File:Rom-1.jpg), Sal Buscema for Marvel Comics</small>
+
+* <small>Screenshot from [*Walt Disney's Alice in Wonderland*](https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1951_film))</small>
 
 * <small>[F-Droid logo](https://commons.wikimedia.org/wiki/File:F-Droid_Logo_4.svg), William Theaker, Robert Martinez, and Andrew Nayenko, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) or [GNU GPLv3 or later](https://www.gnu.org/licenses/gpl.html)</small>
 
