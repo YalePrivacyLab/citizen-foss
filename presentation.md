@@ -248,7 +248,7 @@ Check the settings and make sure you're not logging chats.</small>
 <!-- Bill Gates mugshot -->
 Start by eliminating ==proprietary software== and services with ==advertisements==.
 
-* Ads are not only obnoxious, they may inject malware, even **if** developers [try to avoid it](http://www.pcworld.com/article/2686392/malicious-advertisements-distributed-by-doubleclick-zedo-networks.html).
+* Ads are not only obnoxious, they may [inject malware](http://arstechnica.com/security/2016/12/millions-exposed-to-malvertising-that-hid-attack-code-in-banner-pixels/), even **if** developers [try to avoid it](http://www.pcworld.com/article/2686392/malicious-advertisements-distributed-by-doubleclick-zedo-networks.html).
 
 * Favor [GNU GPL](https://www.gnu.org/copyleft/gpl.html) and other [Free Software licenses](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses).
 
