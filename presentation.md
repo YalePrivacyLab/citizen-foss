@@ -502,7 +502,7 @@ Recall [Richard Stallman's TED Talk](https://www.youtube.com/watch?v=Ag1AKIl_2GM
 ---
 <!-- page_number: true -->
 <span style="float:right;">[![75%](images/trisquel.svg)](http://trisquel.info)</span><!-- Trisquel logo -->
-### The GNU/Linux ==Distro== For You
+#### The GNU/Linux ==Distro== For You
 
 **Most ==libre==** <small>(no proprietary drivers, codecs, etc.)</small>
 <span style="margin-left:5%">[Trisquel](http://trisquel.info) | [gNewSense](http://www.gnewsense.org/) | [Guix](https://www.gnu.org/software/guix/) | [FSF list](https://www.gnu.org/distros/free-distros.html)</span>
@@ -513,6 +513,7 @@ Recall [Richard Stallman's TED Talk](https://www.youtube.com/watch?v=Ag1AKIl_2GM
 **Some "==favorites=="** <small>(list changes frequently)</small>
 <span style="margin-left:5%">[Xubuntu](http://xubuntu.org/) | [Korora](https://kororaproject.org/) | [Manjaro](http://manjaro.org/) | [Elementary](http://elementaryos.org)</span>
 
+**==Lightweight==** <small>(for aging computers)</small> <span style="margin-left:%">[wattOS](http://planetwatt.com/new/) | [Bunsenlabs](https://www.bunsenlabs.org/)</span>
 **Very ==secure==** <small>(not for n00bs)</small> <span style="margin-left:%">[Qubes](https://qubes-os.org/) | [Subgraph](https://subgraph.com/)</span>
 
 <small>[DistroWatch](http://distrowatch.org) | [FSF common systems list](https://www.gnu.org/distros/common-distros.html) (mainly [Unix-like](https://en.wikipedia.org/wiki/Unix-like))</small>
