@@ -119,7 +119,7 @@ Snowden was able to communicate extremely sensitive information despite this, us
 #### Many services still compromised
 # [![80%](images/yahoo-2016.jpg)](https://reason.com/archives/2016/10/11/more-security-holes-like-yahoos)
 <!-- Yahoo! spying mechanism revealed in 2016, Reason.com story -->
-###### <small>In 2016, we learned Yahoo! had new spy software for the NSA. That year, 500 million Yahoo! accounts were also breached.</small>
+###### <small>In 2016, we learned Yahoo! had new spy software for the NSA. At least 1.5 billion accounts were also breached in separate incidents.</small>
 
 ---
 <!-- page_number: true -->
