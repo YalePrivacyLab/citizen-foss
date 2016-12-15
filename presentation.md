@@ -326,7 +326,7 @@ Here are some password strength, storage, and retention strategies.
 <small>**Passphrases:** Can be a favorite song lyric, movie quote, or joke. I would also add numbers and special characters:</small>
 `Cecil+Harambe4ever`
 
-<small>**Strength:** Follow these guidelines on [password strength](https://en.wikipedia.org/wiki/Password_strength#Guidelines_for_strong_passwords)</small>
+<small>**Strength:** [General guidelines](https://en.wikipedia.org/wiki/Password_strength#Guidelines_for_strong_passwords) | [Diceware method](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/)</small>
 
 <small>**[KeePass](http://keepass.info/)** (Windows/Linux) or **[KeePassX](https://www.keepassx.org/)** (Mac): Organize your passwords in an encrypted database.</small>
 
