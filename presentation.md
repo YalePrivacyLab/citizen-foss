@@ -214,6 +214,8 @@ with the person to your left, add them as a buddy.<span style="float:right;margi
 
 * <small>File sharing, including video and large files (though it may be slow).</small>
 
+* <small>[Longer history](https://crypto.cat/news.html#nytltr) than many private chat apps.  Actively responds to audits, vulns, criticism.</small>
+
 ---
 <!-- page_number: true -->
 
@@ -457,6 +459,8 @@ Not working? [Try Whonix](https://www.whonix.org/).
 
 * <small>Surveillance is [difficult or impossible to turn off](https://lifehacker.com/what-windows-10s-privacy-nightmare-settings-actually-1722267229).</small>
 
+* <small>Long history of [spy backdoors](https://www.schneier.com/blog/archives/2007/12/dual_ec_drbg_ad.html) &amp; special [U.S. military access](http://arstechnica.com/information-technology/2016/12/dod-re-ups-with-microsoft-for-rights-to-total-code-access/).</small>
+
 * <small>Microsoft gathers metrics on [every Windows user](http://www.forbes.com/sites/gordonkelly/2016/01/06/windows-10-spying-secrets-revealed/) (what users type, how long they browse, use apps, play games...)</small>
 
 * <small>==Bitlocker== &amp; [SecureBoot](https://www.fsf.org/campaigns/secure-boot-vs-restricted-boot): Microsoft [stores your encryption key](https://theintercept.com/2015/12/28/recently-bought-a-windows-computer-microsoft-probably-has-your-encryption-key/) after the first time you use Windows Update, and there is a ["skeleton key" backdoor in SecureBoot](http://arstechnica.com/security/2016/08/microsoft-secure-boot-firmware-snafu-leaks-golden-key/) leaked in 2016.</small>
@@ -660,7 +664,7 @@ Expect large, consistent ==data breaches==.
 
 * Junk/spam filters play a [cat-and-mouse game](http://www.davidreiley.com/papers/SpamEconomics.pdf).
 
-* [Phishing scams](https://www.scientificamerican.com/article/ldquo-spear-phishing-rdquo-roiled-the-presidential-campaign-mdash-here-rsquo-s-how-to-protect-yourself/) are increasingly-sophisticated.
+* [Phishing scams](https://theconversation.com/spearphishing-roiled-the-presidential-campaign-heres-how-to-protect-yourself-68274) are increasingly-sophisticated.
 
 **Don't assume spies are too cool for phishing.** [Malware sent via e-mail](https://theintercept.com/document/2014/03/12/nsa-phishing-tactics-man-middle-attacks/) is a common tactic.
 
