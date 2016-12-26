@@ -549,9 +549,9 @@ Let's concentrate on ==Android== variants, which are based upon GNU/Linux.
 ## Finding a ==ROM==
 ROMs in the ==modding== community are loosely equivalent to distros / ==firmware==.
 
-* **[Copperhead OS](https://copperhead.co/android/)** - Security is the priority. Only available for Nexus phones.
+* **[Copperhead OS](https://copperhead.co/android/)** - Security is the priority. Only for Nexus phones. [Tor Prototype](https://github.com/mikeperry-tor/mission-improbable/) available.
 
-* **[Cyanogenmod](http://cyanogenmod.com/) or [OmniROM](https://omnirom.org/)** - For many devices.
+* **[Lineage](http://lineageos.org/Yes-this-is-us/) or [OmniROM](https://omnirom.org/)** - Installs on many devices.
 
 * **[XDA-Developers Forum](http://forum.xda-developers.com/)** - More alternatives.
 
@@ -565,9 +565,9 @@ ROMs in the ==modding== community are loosely equivalent to distros / ==firmware
 ==rooting== a device means getting ==superuser== / ==sysadmin== access. It's a Unix-y term for [full control of a system](https://en.wikipedia.org/wiki/Superuser). 
 
 **With Great Power Comes Great Responsibility.**
-Root ==**may**== be needed ==**temporarily**== to free your device. ROMs usually allow you to [turn it on and off](https://www.cyanogenmod.org/blog/security-and-you).
+Root ==**may**== be needed ==**temporarily**== to free your device. ROMs usually allow you to [turn it on and off](https://web.archive.org/web/20160522205137/http://www.cyanogenmod.org/blog/security-and-you).
 
-**Unlocked Bootloader:** If this is a step in the [ROM installation process](https://wiki.cyanogenmod.org/w/Install_CM_for_angler#Unlocking_the_bootloader), you should lock it afterward.
+**Unlocked Bootloader:** If this is a step in the [ROM installation process](https://web.archive.org/web/20161224205610/https://wiki.cyanogenmod.org/w/Install_CM_for_angler#Unlocking_the_bootloader), you should lock it afterward.
 
 **It's all part of the fun!** Back up your files, follow instructions, and use a "test device" if possible.
 
