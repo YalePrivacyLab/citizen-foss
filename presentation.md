@@ -141,7 +141,7 @@ Some U.S. corporations now encrypt some communication, making ==mass surveillanc
 * <small>Why trust these companies? 
 Fool me twice, shame on me.</small>
 
-* <small>On Facebook &amp; WhatsApp, your **metadata** and **social graph** are stored and studied.</small>
+* <small>On Facebook &amp; WhatsApp, your **metadata** and **social graph** are stored &amp; studied. WhatsApp may have a [spy backdoor](https://www.theguardian.com/technology/2017/jan/16/whatsapp-vulnerability-facebook).</small>
 
 * <small>Apple knows **who** you talk to, even when they don't know **what** you say to them.</small>
 
