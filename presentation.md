@@ -760,6 +760,8 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 
 **[Digital Security Helpline](https://www.accessnow.org/help)**: 24/7 multilingual support
 
+**[Xnet](https://xnet-x.net/contactanos-para/publicaciones/)**: grandes recursos en español
+
 ---
 <!-- page_number: false -->
 <span style="float:right;">![15%](images/gnu-meditate.png)</span>
