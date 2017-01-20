@@ -277,7 +277,7 @@ FOSS community reviews, &amp; online forums.
 We'll focus on [Firefox](https://getfirefox.com/) <small>([Iceweasel/IceCat](https://en.wikipedia.org/wiki/Mozilla_software_rebranded_by_Debian#Iceweasel))</small>. 
 Mozilla [values privacy](https://www.mozilla.org/en-US/privacy/principles/) &amp; has a [solid track record](https://www.mozilla.org/en-US/about/history/).
 
-<small>**Why not Google Chrome?** Most of the following tips will also work on Chrome &amp; [Chromium](https://chromium.woolyss.com/) (100% FOSS version). Chrome contains **proprietary** code, has serious privacy issues, and reports back to Google several ways even if you try to opt out.</small>
+<small>**Why not Google Chrome?** Most of the following tips will also work on Chrome &amp; [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser)) (100% FOSS version). Chrome contains **proprietary** code, has serious privacy issues, and reports back to Google several ways even if you try to opt out.</small>
 
 <small>**Can I trust Chromium?** Maybe. Webcam/microphone [spyware](https://www.theguardian.com/technology/2015/jun/23/google-eavesdropping-tool-installed-computers-without-permission) has been included with Chromium (not just Chrome) in the past, but it has since been removed. You will have to turn off the Google defaults and avoid Google services, however.</small>
 
