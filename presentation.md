@@ -397,6 +397,7 @@ Other Deep Web networks: [I2P](https://geti2p.net/en/) &amp; [Freenet](https://f
 <!-- simplified MITM attack diagram -->
 * [What is a VPN good for?](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
 * Look for a [warrant canary](https://www.canarywatch.org/)!
+* You can use [Tor over a VPN](https://www.bestvpn.com/blog/39799/5-best-vpns-when-using-tor/)
 
 <small>**Do your homework before trusting any service.**  Choices:</small>
 <span style="margin-left:5%;">[Riseup Red](https://riseup.net/en/vpn/legacy) (legacy) | [Riseup Black](https://riseup.net/en/vpn)</span>
