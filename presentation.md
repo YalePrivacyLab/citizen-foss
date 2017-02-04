@@ -720,7 +720,7 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 
 * [MayFirst](https://mayfirst.org) is great for activists and has [defense from DDoS](https://deflect.ca/).
 
-* Consider ==Tor Browser== users and [turn off CloudFlare](https://blog.torproject.org/blog/trouble-cloudflare).
+* [Whitelist Tor visitors](https://on1on.cf) if you use CloudFlare.
 
 * Set up ==SSL/TLS== via [Let's Encrypt](https://letsencrypt.org/) to protect your users.
 
