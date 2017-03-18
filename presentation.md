@@ -67,7 +67,7 @@ up, make a friend in the room and follow along.
 
 * <small>**Android only:** Install [F-Droid](https://f-droid.org/). Use [Orfox](https://onionshare.org/), [Silence](https://silence.im/), [Kontalk](https://kontalk.org/).</small>
 
-* <small>**iOS &amp; Android:** Try [Signal](https://whispersystems.org/) instead of Silence and Kontalk.</small>
+* <small>**Need Signal?** Try [Noise](https://copperhead.co/android/docs/usage_guide) on Android, [Signal](https://whispersystems.org/) on iOS.</small>
 
 * <small>E-mail via [Tutanota](https://tutanota.com/) or [Protonmail](https://protonmail.com/), or [follow this PGP guide](https://emailselfdefense.fsf.org/).</small>
 
@@ -540,7 +540,7 @@ Let's concentrate on ==Android== variants, which are based upon GNU/Linux.
 <!-- page_number: true -->
 
 ### There is a world <span style="color:#ffeeb5;">beyond Google</span>.
-### [![42%](images/phone-screenshot.png)](https://copperhead.co/android/)
+### [![32%](images/phone-screenshot.png)](https://copperhead.co/android/)
 <!-- screenshot of AOSP with no Google services, F-Droid, Orbot, etc. -->
 
 ---
@@ -594,7 +594,7 @@ Root ==**may**== be needed ==**temporarily**== to free your device. ROMs usually
 
 <small>**5.** Search for other [**FOSS apps**](https://f-droid.org/repository/browse/), like [ad blockers](https://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android).</small>
 
-<small><small>**What about [Signal](https://whispersystems.org/)?** Signal enables private calls / texts on Android &amp; iOS. It requires a Google or Apple account &amp; relies upon proprietary services.</small></small>
+<small><small>**What about [Signal](https://whispersystems.org/)?** [Noise](https://copperhead.co/android/docs/usage_guide) is available through an [F-Droid repo](https://copperhead.co/android/docs/usage_guide) and doesn't require proprietary Google services like Signal does.</small></small>
 
 ---
 <!-- page_number: true -->
