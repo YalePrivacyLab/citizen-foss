@@ -33,7 +33,7 @@ _Synonyms:_ Software libre, FLOSS.
 ---
 <!-- page_number: true -->
 
-## These Slides are ==Detailed==<span style="float:right;">![50%](../images/its-so-dense.jpg)</span>
+## These Slides are ==Detailed==<span style="float:right;">![50%](images/its-so-dense.jpg)</span>
 <!-- Rick McCallum explaining "every single image" from the Star Wars prequels -->
 Grab a copy of the presentation:
 [github.com/seandiggity/citizen-foss](https://github.com/seandiggity/citizen-foss)
