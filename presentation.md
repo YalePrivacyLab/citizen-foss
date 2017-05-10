@@ -129,6 +129,25 @@ Snowden was able to communicate extremely sensitive information despite this, us
 <!-- PRISM Break - Social Networks -->
 ###### <small>A list of alternative social networks from [PRISM Break](https://prism-break.org/en/all/#social-networks).</small>
 
+
+---
+
+<!-- *template: invert -->
+
+## Guiding Principles:
+
+<span style="color:#FFE56A;">**1.**</span> Trust is earned. Not bought, decreed, or promised.
+
+<span style="color:#FFE56A;">**2.**</span> [Free and Open Source Software](https://en.wikipedia.org/wiki/The_Free_Software_Definition) (<span style="color:#FFE56A;">FOSS</span>) is an essential security requirement (not a guarantee).
+
+<span style="color:#FFE56A;">**3.**</span> Solutions must be both <span style="color:#FFE56A;">_libre_</span> &amp; <span style="color:#FFE56A;">_gratis_</span> to reduce friction, encourage sharing, avoid discrimination.
+
+<span style="color:#FFE56A;">**4.**</span> Advertisements &amp; surveillance go hand-in-glove.
+
+<span style="color:#FFE56A;">**5.**</span> Data is a [toxic asset](https://www.schneier.com/essays/archives/2016/03/data_is_a_toxic_asse.html).
+
+<span style="color:#FFE56A;">**6.**</span> Centralization is [dangerous](https://techcrunch.com/2016/11/07/signal-app-maker-rebuts-criticism-of-dev-direction-by-calling-for-more-community-help/).
+
 ---
 <!-- page_number: true -->
 
