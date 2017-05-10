@@ -1,8 +1,8 @@
 <!-- $theme: gaia -->
-# &nbsp;
+#
 # Citizen ==FOSS==
 #### ***Snowden's toolkit — for the Rest of Us.***
-# ![40% center](images/digital-security.svg)
+# ![85% center](images/privacy_lab_robot.svg)
 <!-- Digital security icon -->
 ##### A Presentation &amp; Guide by Sean O'Brien
 
@@ -33,11 +33,10 @@ _Synonyms:_ Software libre, FLOSS.
 ---
 <!-- page_number: true -->
 
-## These Slides are ==Detailed==<span style="float:right;">![50%](images/its-so-dense.jpg)</span>
+## These Slides are ==Detailed==<span style="float:right;">![50%](../images/its-so-dense.jpg)</span>
 <!-- Rick McCallum explaining "every single image" from the Star Wars prequels -->
-This is a presentation **and** a guide.
-
-<span style="margin-left:5%;">[Grab a copy here:arrow_right:](https://github.com/seandiggity/citizen-foss)
+Grab a copy of the presentation:
+[github.com/seandiggity/citizen-foss](https://github.com/seandiggity/citizen-foss)
 
 Refer back to it later, read it slowly, &amp; click the links.
 
@@ -65,18 +64,18 @@ up, make a friend in the room and follow along.
 
 * <small>Browse with [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and use [OnionShare](https://onionshare.org/).</small>
 
-* <small>**Android only:** Install [F-Droid](https://f-droid.org/). Use [Orfox](https://onionshare.org/), [Silence](https://silence.im/), [Kontalk](https://kontalk.org/).</small>
+* <small>Try [Wire](https://wire.com/en/download/) on iOS and Android.</small>
 
-* <small>**Need Signal?** Try [Noise](https://copperhead.co/android/docs/usage_guide) on Android, [Signal](https://whispersystems.org/) on iOS.</small>
+* <small>**Android only:** Install [F-Droid](https://f-droid.org/). Use [Orfox](https://onionshare.org/), [orWall](https://orwall.org/), [Silence](https://silence.im/).</small>
 
-* <small>E-mail via [Tutanota](https://tutanota.com/) or [Protonmail](https://protonmail.com/), or [follow this PGP guide](https://emailselfdefense.fsf.org/).</small>
+* <small>E-mail via [Tutanota](https://tutanota.com/) or [Protonmail](https://protonmail.com/), or [set up GPG+Enigmail](https://ssd.eff.org/en/searchapi?keys=how+to+pgp).</small>
 
 ---
 <!-- page_number: true -->
 
 # ==Etherpad== for Live Q &amp; A
-#### Let's name a new pad at [https://pad.riseup.net](https://pad.riseup.net/)
-###### <small>...this pad will self‐destruct in 30 days.</small>
+#### Let's name a new pad at [pad.riseup.net](https://pad.riseup.net/)
+###### <small>...this pad will self-destruct in 30 days.</small>
 
 * This is =="Security by Obscurity"==.
 <small>**Do not** type info in the pad you wish to remain private.
@@ -85,7 +84,7 @@ If the pad name is guessed or shared, anyone can view it.</small>
 * [Riseup.net](https://riseup.net/) hosts awesome services.
 <small>Donate if you can, they almost had to shut down in 2016.</small>
 
-<small>Other options:
+<small>Other options: [Riseup .onion Etherpad](http://5jp7xtmox6jyoqd5.onion) (Tor only)
 [Mozilla's public Etherpad](https://public.etherpad-mozilla.org/) | [Try Ethersheet for spreadsheets](https://ethersheet.org/)</small>
 
 ---
@@ -290,7 +289,7 @@ Try these addons &amp; tweak the settings.
 [How to install](http://www.wikihow.com/Enable-Add-Ons) | [How to remove addons](http://www.wikihow.com/Disable-Add-Ons)
 * <small>**Essential:** [uBlock](https://www.ublock.org/) or [Adblock Plus](https://adblockplus.org/), [HTTPS Everywhere](https://www.eff.org/https-everywhere)</small>
 
-* <small>**Recommended:** [DuckDuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/), [HTML5 Vid Everywhere](https://addons.mozilla.org/en-US/firefox/addon/html5-video-everywhere/)</small>
+* <small>**Recommended:** [DuckDuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/), [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)</small>
 
 * <small>**YourMileageMayVary:** [Privacy Badger](https://www.eff.org/privacybadger), [Disconnect](https://disconnect.me/freeprotection), [LibreJS](https://www.gnu.org/software/librejs/)</small>
 
@@ -380,7 +379,7 @@ break it (we know this [thanks to Snowden](https://www.theguardian.com/world/int
 
 Use TBB for the "normal" Web **and** the [Deep Web](https://en.wikipedia.org/wiki/Deep_web#Content_types).
 
-**Try it In TBB:** [thehiddenwiki.org](http://thehiddenwiki.org)
+**[Onion Sites That Don't Suck](https://github.com/alecmuffett/onion-sites-that-dont-suck)**
 
 [Onionshare](https://onionshare.org): Easy way to share files via .onion URLs.
 
@@ -402,7 +401,7 @@ Other Deep Web networks: [I2P](https://geti2p.net/en/) &amp; [Freenet](https://f
 <small>**Do your homework before trusting any service.**  Choices:</small>
 <span style="margin-left:5%;">[Riseup Red](https://riseup.net/en/vpn/legacy) (legacy) | [Riseup Black](https://riseup.net/en/vpn)</span>
 
-<small>[VPN.ht](https://vpn.ht/) | [PIA](https://www.privateinternetaccess.com/) | [Doublehop](https://www.doublehop.me/) | [AceVPN](https://www.acevpn.com/) | [CyberGhost](https://www.cyberghostvpn.com) | [SumRando](https://sumrando.com)</small>
+<small>[PIA](https://www.privateinternetaccess.com/) | [VPN.ht](https://vpn.ht/) | [Doublehop](https://www.doublehop.me/) | [AceVPN](https://www.acevpn.com/) | [CyberGhost](https://www.cyberghostvpn.com) | [SumRando](https://sumrando.com)</small>
 
 ---
 <!-- *template: invert -->
@@ -422,7 +421,7 @@ Other Deep Web networks: [I2P](https://geti2p.net/en/) &amp; [Freenet](https://f
 
 <small>Use [OnionShare](https://onionshare.org) for single files. ==P2P== / ==Bittorrent== requires trade-offs: speed, anonymity, ease-of-use, size of network.</small>
 
-<span style="margin-left:5%;">[RetroShare]() | [Tox](https://en.wikipedia.org/wiki/Tox_(protocol)#Clients) | [GNUnet](https://en.wikipedia.org/wiki/GNUnet) | [Tribler](https://www.tribler.org/)</span>
+<span style="margin-left:5%;">[Tox](https://en.wikipedia.org/wiki/Tox_(protocol)#Clients) | [RetroShare](http://retroshare.net) | [GNUnet](https://en.wikipedia.org/wiki/GNUnet) | [Tribler](https://www.tribler.org/)</span>
 <small>
 <small>**Remember:** Sharing may run contrary to copyright law in your country.</small>
 <span style="margin-left:5%;"><small>&bull; Share ==copyleft==, [Creative Commons ShareAlike](https://en.wikipedia.org/wiki/Share-alike) &amp; ==Free Culture== works.</small></span>
@@ -556,8 +555,6 @@ ROMs in the ==modding== community are loosely equivalent to distros / ==firmware
 
 * **[XDA-Developers Forum](http://forum.xda-developers.com/)** - More alternatives.
 
-**Blackphone from [Silent Circle](http://silentcircle.com/)** -  Made by prominent security experts, relies upon proprietary services.
-
 ---
 <!-- page_number: true -->
 
@@ -588,9 +585,9 @@ Root ==**may**== be needed ==**temporarily**== to free your device. ROMs usually
 
 <small>**2.** [Add the **Guardian Project** repository](https://guardianproject.info/fdroid/) in F-Droid. GP offers privacy apps like [ObscuraCam](https://guardianproject.info/apps/obscuracam/).</small>
 
-<small>**3.** Install [**Orbot**](https://guardianproject.info/apps/orbot) &amp; [**OrFox**](https://guardianproject.info/apps/orfox/), Tor and Tor Browser for Android.</small>
+<small>**3.** Install [**orWall**](https://orwall.org/) &amp; [**Orfox**](https://guardianproject.info/apps/orfox/), Tor and Tor Browser for Android.</small>
 
-<small>**4.** Try [**Silence**](https://silence.im/) &amp; [**Kontalk**](https://www.kontalk.org/). Silence enables encrypted SMS/text. Kontalk is like a truly-private WhatsApp.</small>
+<small>**4.** Try [**Silence**](https://silence.im/) &amp; [**Wire**](https://wire.com/en/download/). Silence enables encrypted SMS/text. Wire is a full-featured text and voice chat app like Signal.</small>
 
 <small>**5.** Search for other [**FOSS apps**](https://f-droid.org/repository/browse/), like [ad blockers](https://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android).</small>
 
@@ -688,45 +685,54 @@ Expect large, consistent ==data breaches==.
 * <small>**Cons:** Encryption only to other Tutanota addresses. Can't download your mail locally via ==POP== or ==IMAP==.</small>
 * <small>[Protonmail](https://protonmail.com/) is a similar service, with encrypted, [password-protected e-mail](https://protonmail.com/support/knowledge-base/encrypt-for-outside-users/) to non-Protonmail users.</small>
 
-<small>Tutanota &amp; Protonmail are **not as flexible or popular as PGP**. They work best if everyone uses the same webmail provider.
+<small>Tutanota &amp; Protonmail are **not as flexible or popular as GPG**. They work best if everyone uses the same webmail provider.</small>
+
+---
+<!-- *template: invert -->
+<!-- page_number: false -->
+
+# GPG guide by ==anon108==
+##### Uploaded Jan. 6, 2013. Can you name the voice?
+# [![100%](images/anon108_snowden-video.png)](https://vimeo.com/56881481)
+<!-- "anon108" video uploaded on 2013-01-06 by Edward Snowden, presumably for Glenn Greenwald (?) to watch -->
+###### [Watch on Vimeo:arrow_right:](https://vimeo.com/56881481) 
 
 ---
 <!-- page_number: true -->
 
-<span style="float:right;">[![30%](images/thunderbird.png)](https://www.mozilla.org/en-US/thunderbird/)</span><!-- Mozilla Thunderbird logo -->
-### You Down with ==PGP==? ***Yeah, GnuPG!***
-#### Install [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) (Icedove) and follow the [E-mail Self-Defense Guide](https://emailselfdefense.fsf.org/) to try [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy).
+<span style="float:right;">[![28%](images/thunderbird.png)](https://www.mozilla.org/en-US/thunderbird/)</span><!-- Mozilla Thunderbird logo -->
+#### You Down with ==PGP==? ***Yeah, GnuPG!***
 
-* <small>**Pros:** The standard. Use almost any e-mail address. Easy [key sharing](http://www.pgp.net/pgpnet/pgp-faq/pgp-faq-keyservers.html). Multiple [trust models](http://www.pgpi.org/doc/pgpintro/#p20). Allows for download.</small>
-* <small>**Cons:** More complex to set up than webmail-only solutions. No privacy for metadata / e-mail headers / message subject.</small>
+<small>We say "GPG" because we're using the **==G==NU ==P==rivacy ==G==uard** implementation of **==P==retty ==G==ood ==P==rivacy**.</small>
 
-**Keep It Local:** Get your e-mail off of someone else's servers!
-<small>Use ==POP== or ==IMAP== to download in a mail client like [Thunderbird/Icedove](https://en.wikipedia.org/wiki/Mozilla_software_rebranded_by_Debian#Icedove).</small>
+<span style="margin-left:5%;">**[Download Thunderbird:arrow_right:](https://www.mozilla.org/en-US/thunderbird/)**</span>
 
-**E-mail Hosts:** Try [Riseup](https://user.riseup.net/forms/new_user/first) or [Mailfence](http://mailfence.com/), or [browse this list](http://www.emailquestions.com/encrypted-email-service-providers/).
-<small>Mailfence has easy Gmail, Yahoo!, &amp; Office365 import, quick [PGP setup](https://www.mailfence.com/c/mailfence/more/crypto.jsp), and has [calendar / document sharing](https://blog.mailfence.com/secure-document-sharing/). Some features require paid account.</small>
+**Follow the EFF's guide for your operating system:**
+
+<span style="margin-left:5%;">**[GNU/Linux](https://ssd.eff.org/en/module/how-use-pgp-linux)** | **[MacOS](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x)** | **[Windows](https://ssd.eff.org/en/module/how-use-pgp-windows)**</span>
+
+<small>**E-mail Hosts:** Try [Riseup](https://user.riseup.net/forms/new_user/first) or [Mailfence](http://mailfence.com/), or [browse this list](http://www.emailquestions.com/encrypted-email-service-providers/).
+Mailfence has easy Gmail, Yahoo!, &amp; Office365 import, quick [GPG setup](https://www.mailfence.com/c/mailfence/more/crypto.jsp), and has [calendar / document sharing](https://blog.mailfence.com/secure-document-sharing/). Some features require paid account.</small>
 
 ---
 <!-- page_number: true -->
 
 ## Avoid ==Web== Publishing Traps<span style="float:right;">![64%](images/evil-kermit.png)</span><!-- Evil Kermit meme -->
 
-Sharing isn't just about conversations.
+<small>Sharing isn't just about conversations.
 The Web is for publishing _World Wide_.
 
-**Social networks** like Facebook are [walled gardens](https://en.wikipedia.org/wiki/Closed_platform) with constant surveillance. Consider [federated social networks](https://prism-break.org/en/all/#social-networks).
+**Social networks** like Facebook are [walled gardens](https://en.wikipedia.org/wiki/Closed_platform) with total surveillance. Try [federated social networks](https://prism-break.org/en/all/#social-networks).
 
-Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://wordpress.org), &amp; [Wikis](https://mediawiki.org)**.  Big hosts like [WordPress.com](https://transparency.automattic.com/takedown-demands/) censor and take down websites.
+Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://wordpress.org), &amp; [Wikis](https://mediawiki.org)**.</small>
 
-* [MayFirst](https://mayfirst.org) is great for activists and has [defense from DDoS](https://deflect.ca/).
+* <small>[MayFirst](https://mayfirst.org) is great for activists and has [defense from DDoS](https://deflect.ca/).</small>
 
-* [Whitelist Tor visitors](https://on1on.cf) if you use CloudFlare.
+* <small>[Whitelist Tor visitors](https://on1on.cf) if you use CloudFlare.</small>
 
-* Set up ==SSL/TLS== via [Let's Encrypt](https://letsencrypt.org/) to protect your users.
+* <small>Set up ==SSL/TLS== via [Let's Encrypt](https://letsencrypt.org/) to protect your users.</small>
 
-* Don't force users into [ad networks](https://help.medium.com/hc/en-us/articles/224601547-Ads-on-Medium) just to view &amp; comment.
-
-**Remember:** [Etherpad](https://pad.riseup.net/) and [Up1](https://pad.riseup.net/) for quick copypasta.
+* <small>Don't force users into [ad networks](https://help.medium.com/hc/en-us/articles/224601547-Ads-on-Medium) just to view &amp; comment.</small>
 
 ---
 <!-- *template: invert -->
@@ -734,20 +740,20 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 
 ### <span style="color:#ffeeb5;">Secure Comms Strategy</span><span style="float:right;">![75%](images/cone-of-silence.jpg)</span><!-- The portable cone of silence from Get Smart -->
 #### Make a plan and stick to it.
-* The <span style="color:#ffeeb5;">**What**</span>: Choose a few crypto, sharing, &amp; publishing tools.
-* The <span style="color:#ffeeb5;">**How**</span>: Try these tools, figure out how they work.
-* The <span style="color:#ffeeb5;">**Where**</span>: Find safe places to share secrets, on &amp; offline.
-* The <span style="color:#ffeeb5;">**When**</span>: Describe scenarios when you will use each tool.
-* The <span style="color:#ffeeb5;">**Why**</span>: State clear reasons to use each tool.
-* The <span style="color:#ffeeb5;">**Who**</span>: Identify "experts" who can help &amp; teach others.
+* <small>The <span style="color:#ffeeb5;">**What**</span>: Choose a few crypto, sharing, &amp; publishing tools.</small>
+* <small>The <span style="color:#ffeeb5;">**How**</span>: Try these tools, figure out how they work.</small>
+* <small>The <span style="color:#ffeeb5;">**Where**</span>: Find safe places to share secrets, on &amp; offline.</small>
+* <small>The <span style="color:#ffeeb5;">**When**</span>: Describe scenarios when you will use each tool.</small>
+* <small>The <span style="color:#ffeeb5;">**Why**</span>: State clear reasons to use each tool.</small>
+* <small>The <span style="color:#ffeeb5;">**Who**</span>: Identify "experts" who can help &amp; teach others.</small>
 
-**The Only Constant Is Change!** Try new software, keep up on tech news &amp; potential threats, and re-evaluate over time.
+<small>**The Only Constant Is Change!** Try new software, keep up on tech news &amp; potential threats, and re-evaluate over time.</small>
 
 ---
 <!-- page_number: false -->
 
 ## Resources<span style="float:right;">[![58%](images/apt-get-anarchism.png)](https://debian.org)</span>
-<!-- Debian apt-get install anarchism -->
+<!-- Debian apt-get install anarchism --><small>
 * Free Software Foundation: [fsf.org](https://fsf.org/)
 * Tor Project: [torproject.org](https://torproject.org/)
 * Electronic Frontier Foundation: [eff.org](https://eff.org/)
@@ -761,7 +767,7 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 
 **[Digital Security Helpline](https://www.accessnow.org/help)**: 24/7 multilingual support
 
-**[Xnet](https://xnet-x.net/contactanos-para/publicaciones/)**: grandes recursos en español
+**[Xnet](https://xnet-x.net/contactanos-para/publicaciones/)**: grandes recursos en español</small>
 
 ---
 <!-- page_number: false -->
@@ -769,7 +775,8 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 <!-- Meditating Gnu -->
 ## Sources
 
-* <small>[Digital Security icon](http://www.flaticon.com/free-icon/digital-security_749420), Freepik, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
+* <small>[Privacy Lab icon](https://privacylab.yale.edu), Sean O'Brien, [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). Inspired by [Blue Robot Vector](http://www.freevectors.net/details/blue-robot-illustration), 1001Vectors, "Free for personal use". Includes [Wifi](http://www.flaticon.com/free-icon/wifi-medium-signal-symbol_34143), SimpleIcon, [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) &amp;
+[Eye](http://www.flaticon.com/free-icon/eye_204281), Prosymbols, [Flaticon Basic](http://file000.flaticon.com/downloads/license/license.pdf)</small>
 
 * <small>[Rick McCallum describing *Star Wars: Episode I*](https://www.youtube.com/watch?v=qvc9_GDoWI4)</small>
 
@@ -779,26 +786,31 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 
 * <small>Edward Snowden and Glenn Greenwald from [*Citizenfour*](https://en.wikipedia.org/wiki/Citizenfour)</small>
 
-* <small>[Story on Yahoo! data breach](https://reason.com/archives/2016/10/11/more-security-holes-like-yahoos), Reason.com</small>
-
-* <small>Screenshot of [PRISM Break](https://prism-break.org/en/all/#social-networks), [GNU GPLv3](https://github.com/nylira/prism-break/blob/master/LICENSE.md)</small>
-
-* <small>[Confused student](http://www.flaticon.com/free-icon/student-with-doubts-on-class_43320) &amp; [WhatsApp icon](http://www.flaticon.com/free-icon/student-with-doubts-on-class_43320), Freepik, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
-
-* <small>[Facebook Messenger icon](http://www.flaticon.com/free-icon/messenger_134938), Madebyoliver, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
-
-* <small>[Apple icon](http://www.flaticon.com/free-icon/apple_179309), Pixel Buddha, [Flaticon Basic License](http://file000.flaticon.com/downloads/license/license.pdf)</small>
-
 ---
 <!-- page_number: false -->
 
 ### Sources (continued)
+
+* <small>[Story on Yahoo! data breach](https://reason.com/archives/2016/10/11/more-security-holes-like-yahoos), Reason.com</small>
+
+* <small>Screenshot of [PRISM Break](https://prism-break.org/en/all/#social-networks), [GNU GPLv3](https://github.com/nylira/prism-break/blob/master/LICENSE.md)</small>
+
+* <small>[Confused student](http://www.flaticon.com/free-icon/student-with-doubts-on-class_43320) &amp; [WhatsApp icon](http://www.flaticon.com/free-icon/student-with-doubts-on-class_43320), Freepik, [Flaticon Basic](http://file000.flaticon.com/downloads/license/license.pdf)</small>
+
+* <small>[Facebook Messenger icon](http://www.flaticon.com/free-icon/messenger_134938), Madebyoliver, [Flaticon Basic](http://file000.flaticon.com/downloads/license/license.pdf)</small>
+
+* <small>[Apple icon](http://www.flaticon.com/free-icon/apple_179309), Pixel Buddha, [Flaticon Basic](http://file000.flaticon.com/downloads/license/license.pdf)</small>
 
 * <small>Screenshot of [Jitsi Meet](https://meet.jit.si) with Animal and Kermit from *The Muppets*</small>
 
 * <small>[Spider-Man meme](http://knowyourmeme.com/memes/60s-spider-man), based on 60's animated series</small>
 
 * <small>[Screenshot of Cryptocat](https://commons.wikimedia.org/wiki/File:ChatWindow.png), Nadim Kobeissi, public domain</small>
+
+---
+<!-- page_number: false -->
+
+### Sources (continued)
 
 * <small>["See no, Hear no, Speak no" penguins](http://truckitos.es.tl/Galeria/kat-1-1.htm), Crystal Icons by Everaldo Coelho, [GNU LGPLv2 or later](http://www.gnu.org/copyleft/lgpl.html)</small>
 
@@ -833,6 +845,11 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 
 * <small>[Logo from "Home Taping Is Killing Music" campaign](https://en.wikipedia.org/wiki/File:Home_taping_is_killing_music.png)</small>
 
+---
+<!-- page_number: false -->
+
+### Sources (continued)
+
 * <small>[Tails](https://tails.boum.org/) screenshot, Sean O'Brien, [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) or [GNU GPLv3 or later](https://www.gnu.org/licenses/gpl.html)</small>
 
 * <small>["Bad Windows" logo](https://commons.wikimedia.org/wiki/File:BadSeven_no_littering.svg), Free Software Foundation, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)</small>
@@ -841,22 +858,22 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 
 * <small>[GNU Project logo](https://commons.wikimedia.org/wiki/File:The_GNU_logo.png), Aurélio A. Heckert, [Free Art License](http://artlibre.org/licence.php/lalgb.html)</small>
 
----
-<!-- page_number: false -->
-
-### Sources (continued)
-
 * <small>[Tux the Linux mascot](https://commons.wikimedia.org/wiki/File:Tux.png), Larry Ewing and GIMP</small>
 
 * <small>Screenshot from ["What Is Linux" video](https://www.youtube.com/watch?v=tFFNiMV27VY), The Linux Gamer</small>
 
 * <small>[Trisquel logo](https://www.gnu.org/graphics/trisquel.html), Rubén Rodríguez Pérez, [GNU GPLv2 or later](https://www.gnu.org/licenses/gpl.html)</small>
 
+---
+<!-- page_number: false -->
+
+### Sources (continued)
+
 * <small>[Tux the penguin as Neo from *The Matrix*](http://truckitos.es.tl/Galeria/kat-1-1.htm), Crystal Icons by Everaldo Coelho, [GNU LGPLv2 or later](http://www.gnu.org/copyleft/lgpl.html)</small>
 
 * <small>Android plus [F-Droid](https://f-droid.org/) screenshot, Sean O'Brien, [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) or [GNU GPLv3 or later](https://www.gnu.org/licenses/gpl.html)</small>
 
-* <small>Cover of [*ROM Spaceknight* #1](https://en.wikipedia.org/wiki/Rom_(comics)#/media/File:Rom-1.jpg), Sal Buscema for Marvel Comics</small>
+* <small>Cover of [*ROM Spaceknight* #1](https://en.wikipedia.org/wiki/Rom_(comics)#/media/File:Rom-1.jpg), Sal Buscema for Marvel</small>
 
 * <small>Screenshot from [*Walt Disney's Alice in Wonderland*](https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1951_film))</small>
 
@@ -878,6 +895,15 @@ Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://w
 * <small>[jpodesta p@ssw0rd](https://wikileaks.org/podesta-emails/emailid/22335#efmABbABs), Wikileaks *Podesta Emails* archive</small>
 
 * <small>[Tutanota logo](https://commons.wikimedia.org/wiki/File:Tutanota_Logo.png), Tutao GmbH, [GNU GPLv2 or later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)</small>
+
+* <small>Screenshot from ["The Internet: Encryption" video](https://www.youtube.com/watch?v=ZghMPWGXexs), Code.org</small>
+
+* <small>Screenshot from [Edward Snowden (anon108) GPG tutorial](https://vimeo.com/56881481)</small>
+
+---
+<!-- page_number: false -->
+
+### Sources (continued)
 
 * <small>[Mozilla Thunderbird logo](https://www.mozilla.org/en-US/styleguide/identity/thunderbird/logo/), Mozilla Foundation, [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/) or [MPL 2](https://www.mozilla.org/en-US/MPL/2.0/)</small>
 
