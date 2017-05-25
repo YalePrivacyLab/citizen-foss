@@ -745,7 +745,7 @@ The Web is for publishing _World Wide_.
 
 <small>**Replace Facebook:** [diaspora*](https://diasporafoundation.org/), [Friendica](http://friendi.ca/) | **Twitter:** [Mastodon](https://mastodon.social), [GNU Social](https://gnu.io/social/)</small>
 
-<small>Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://wordpress.org), &amp; [Wikis](https://mediawiki.org)**.</small>
+<small>Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://wordpress.org), [Wikis](https://mediawiki.org) &amp; [Classes](https://moodle.org)**.</small>
 * <small>[MayFirst](https://mayfirst.org) is great for activists and has [defense from DDoS](https://deflect.ca/).</small>
 
 * <small>[Whitelist Tor visitors](https://on1on.cf) if you use CloudFlare.</small>
