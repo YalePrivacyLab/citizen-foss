@@ -2,7 +2,7 @@
 #
 # Citizen ==FOSS==
 #### ***Snowden's toolkit — for the Rest of Us.***
-# ![85% center](images/privacy_lab_robot.svg)
+# ![96% center](images/privacy_lab_robot.png)
 <!-- Digital security icon -->
 ##### A Presentation &amp; Guide by Sean O'Brien
 
@@ -736,15 +736,16 @@ Mailfence has easy Gmail, Yahoo!, &amp; Office365 import, quick [GPG setup](http
 ---
 <!-- page_number: true -->
 
-## Avoid ==Web== Publishing Traps<span style="float:right;">![64%](images/evil-kermit.png)</span><!-- Evil Kermit meme -->
+## Avoid ==Web== Publishing Traps<span style="float:right;">![52%](images/evil-kermit.png)</span><!-- Evil Kermit meme -->
 
 <small>Sharing isn't just about conversations.
 The Web is for publishing _World Wide_.
 
-**Social networks** like Facebook are [walled gardens](https://en.wikipedia.org/wiki/Closed_platform) with total surveillance. Try [federated social networks](https://prism-break.org/en/all/#social-networks).
+**Avoid [walled gardens](https://en.wikipedia.org/wiki/Closed_platform)** with total surveillance like Facebook. Replace them with [federated social networks](https://prism-break.org/en/all/#social-networks).
 
-Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://wordpress.org), &amp; [Wikis](https://mediawiki.org)**.</small>
+<small>**Replace Facebook:** [diaspora*](https://diasporafoundation.org/), [Friendica](http://friendi.ca/) | **Twitter:** [Mastodon](https://mastodon.social), [GNU Social](https://gnu.io/social/)</small>
 
+<small>Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://wordpress.org), &amp; [Wikis](https://mediawiki.org)**.</small>
 * <small>[MayFirst](https://mayfirst.org) is great for activists and has [defense from DDoS](https://deflect.ca/).</small>
 
 * <small>[Whitelist Tor visitors](https://on1on.cf) if you use CloudFlare.</small>
