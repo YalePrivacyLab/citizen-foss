@@ -2,7 +2,7 @@
 #
 # Citizen ==FOSS==
 #### ***Snowden's toolkit — for the Rest of Us.***
-# ![96% center](images/privacy_lab_robot.png)
+# ![600px center](images/privacylab_ghost.svg)
 <!-- Digital security icon -->
 ##### A Presentation &amp; Guide by Sean O'Brien
 
@@ -760,20 +760,20 @@ The Web is for publishing _World Wide_.
 
 ### <span style="color:#ffeeb5;">Secure Comms Strategy</span><span style="float:right;">![75%](images/cone-of-silence.jpg)</span><!-- The portable cone of silence from Get Smart -->
 #### Make a plan and stick to it.
-* <small>The <span style="color:#ffeeb5;">**What**</span>: Choose a few crypto, sharing, &amp; publishing tools.</small>
-* <small>The <span style="color:#ffeeb5;">**How**</span>: Try these tools, figure out how they work.</small>
-* <small>The <span style="color:#ffeeb5;">**Where**</span>: Find safe places to share secrets, on &amp; offline.</small>
-* <small>The <span style="color:#ffeeb5;">**When**</span>: Describe scenarios when you will use each tool.</small>
-* <small>The <span style="color:#ffeeb5;">**Why**</span>: State clear reasons to use each tool.</small>
-* <small>The <span style="color:#ffeeb5;">**Who**</span>: Identify "experts" who can help &amp; teach others.</small>
+* The <span style="color:#ffeeb5;">**What**</span>: Choose a few crypto, sharing, &amp; publishing tools.
+* The <span style="color:#ffeeb5;">**How**</span>: Try these tools, figure out how they work.
+* The <span style="color:#ffeeb5;">**Where**</span>: Find safe places to share secrets, on &amp; offline.
+* The <span style="color:#ffeeb5;">**When**</span>: Describe scenarios when you will use each tool.
+* The <span style="color:#ffeeb5;">**Why**</span>: State clear reasons to use each tool.
+* The <span style="color:#ffeeb5;">**Who**</span>: Identify "experts" who can help &amp; teach others.
 
-<small>**The Only Constant Is Change!** Try new software, keep up on tech news &amp; potential threats, and re-evaluate over time.</small>
+**The Only Constant Is Change!** Try new software, keep up on tech news &amp; potential threats, and re-evaluate over time.
 
 ---
 <!-- page_number: false -->
 
 ## Resources<span style="float:right;">[![58%](images/apt-get-anarchism.png)](https://debian.org)</span>
-<!-- Debian apt-get install anarchism --><small>
+<!-- Debian apt-get install anarchism -->
 * Free Software Foundation: [fsf.org](https://fsf.org/)
 * Tor Project: [torproject.org](https://torproject.org/)
 * Electronic Frontier Foundation: [eff.org](https://eff.org/)
@@ -787,7 +787,7 @@ The Web is for publishing _World Wide_.
 
 **[Digital Security Helpline](https://www.accessnow.org/help)**: 24/7 multilingual support
 
-**[Xnet](https://xnet-x.net/contactanos-para/publicaciones/)**: grandes recursos en español</small>
+**[Xnet](https://xnet-x.net/contactanos-para/publicaciones/)**: grandes recursos en español
 
 ---
 <!-- page_number: false -->
@@ -795,8 +795,7 @@ The Web is for publishing _World Wide_.
 <!-- Meditating Gnu -->
 ## Sources
 
-* <small>[Privacy Lab icon](https://privacylab.yale.edu), Sean O'Brien, [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). Inspired by [Blue Robot Vector](http://www.freevectors.net/details/blue-robot-illustration), 1001Vectors, "Free for personal use". Includes [Wifi](http://www.flaticon.com/free-icon/wifi-medium-signal-symbol_34143), SimpleIcon, [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) &amp;
-[Eye](http://www.flaticon.com/free-icon/eye_204281), Prosymbols, [Flaticon Basic](http://file000.flaticon.com/downloads/license/license.pdf)</small>
+* <small>[Yale Privacy Lab ghost](https://privacylab.yale.edu), Sean O'Brien, [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) (contains elements from [EmojiTwo](https://emojitwo.github.io/), [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/), and [Wifi by SimpleIcon](http://www.flaticon.com/free-icon/wifi-medium-signal-symbol_34143), [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/))</small>
 
 * <small>[Rick McCallum describing *Star Wars: Episode I*](https://www.youtube.com/watch?v=qvc9_GDoWI4)</small>
 
@@ -806,11 +805,6 @@ The Web is for publishing _World Wide_.
 
 * <small>Edward Snowden and Glenn Greenwald from [*Citizenfour*](https://en.wikipedia.org/wiki/Citizenfour)</small>
 
----
-<!-- page_number: false -->
-
-### Sources (continued)
-
 * <small>[Story on Yahoo! data breach](https://reason.com/archives/2016/10/11/more-security-holes-like-yahoos), Reason.com</small>
 
 * <small>Screenshot of [PRISM Break](https://prism-break.org/en/all/#social-networks), [GNU GPLv3](https://github.com/nylira/prism-break/blob/master/LICENSE.md)</small>
@@ -819,6 +813,11 @@ The Web is for publishing _World Wide_.
 
 * <small>[Facebook Messenger icon](http://www.flaticon.com/free-icon/messenger_134938), Madebyoliver, [Flaticon Basic](http://file000.flaticon.com/downloads/license/license.pdf)</small>
 
+---
+<!-- page_number: false -->
+
+### Sources (continued)
+
 * <small>[Apple icon](http://www.flaticon.com/free-icon/apple_179309), Pixel Buddha, [Flaticon Basic](http://file000.flaticon.com/downloads/license/license.pdf)</small>
 
 * <small>Screenshot of [Jitsi Meet](https://meet.jit.si) with Animal and Kermit from *The Muppets*</small>
@@ -826,11 +825,6 @@ The Web is for publishing _World Wide_.
 * <small>[Spider-Man meme](http://knowyourmeme.com/memes/60s-spider-man), based on 60's animated series</small>
 
 * <small>[Screenshot of Cryptocat](https://commons.wikimedia.org/wiki/File:ChatWindow.png), Nadim Kobeissi, public domain</small>
-
----
-<!-- page_number: false -->
-
-### Sources (continued)
 
 * <small>["See no, Hear no, Speak no" penguins](http://truckitos.es.tl/Galeria/kat-1-1.htm), Crystal Icons by Everaldo Coelho, [GNU LGPLv2 or later](http://www.gnu.org/copyleft/lgpl.html)</small>
 
@@ -844,12 +838,12 @@ The Web is for publishing _World Wide_.
 
 * <small>[DDG logo](https://commons.wikimedia.org/wiki/File:DuckDuckGo_logo_and_wordmark_(2014-present).svg), DuckDuckGo, Inc., [GNU GPLv1 or later](https://github.com/duckduckgo/community-platform/blob/master/LICENSE) or [Artistic License](http://www.perlfoundation.org/artistic_license_1_0)</small>
 
-* <small>John C. Reilly from *Check It Out! with Dr. Steve Brule*</small>
-
 ---
 <!-- page_number: false -->
 
 ### Sources (continued)
+
+* <small>John C. Reilly from *Check It Out! with Dr. Steve Brule*</small>
 
 * <small>Screenshot from ["Tor Animation" video](https://www.youtube.com/watch?v=JWII85UlzKw), Tor Project, [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/)</small>
 
@@ -865,16 +859,16 @@ The Web is for publishing _World Wide_.
 
 * <small>[Logo from "Home Taping Is Killing Music" campaign](https://en.wikipedia.org/wiki/File:Home_taping_is_killing_music.png)</small>
 
----
-<!-- page_number: false -->
-
-### Sources (continued)
-
 * <small>[Tails](https://tails.boum.org/) screenshot, Sean O'Brien, [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) or [GNU GPLv3 or later](https://www.gnu.org/licenses/gpl.html)</small>
 
 * <small>["Bad Windows" logo](https://commons.wikimedia.org/wiki/File:BadSeven_no_littering.svg), Free Software Foundation, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)</small>
 
 * <small>Slide from [Richard Stallman TEDx talk](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society), [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/)</small>
+
+---
+<!-- page_number: false -->
+
+### Sources (continued)
 
 * <small>[GNU Project logo](https://commons.wikimedia.org/wiki/File:The_GNU_logo.png), Aurélio A. Heckert, [Free Art License](http://artlibre.org/licence.php/lalgb.html)</small>
 
@@ -883,11 +877,6 @@ The Web is for publishing _World Wide_.
 * <small>Screenshot from ["What Is Linux" video](https://www.youtube.com/watch?v=tFFNiMV27VY), The Linux Gamer</small>
 
 * <small>[Trisquel logo](https://www.gnu.org/graphics/trisquel.html), Rubén Rodríguez Pérez, [GNU GPLv2 or later](https://www.gnu.org/licenses/gpl.html)</small>
-
----
-<!-- page_number: false -->
-
-### Sources (continued)
 
 * <small>[Tux the penguin as Neo from *The Matrix*](http://truckitos.es.tl/Galeria/kat-1-1.htm), Crystal Icons by Everaldo Coelho, [GNU LGPLv2 or later](http://www.gnu.org/copyleft/lgpl.html)</small>
 
@@ -899,12 +888,12 @@ The Web is for publishing _World Wide_.
 
 * <small>[F-Droid logo](https://commons.wikimedia.org/wiki/File:F-Droid_Logo_4.svg), William Theaker, Robert Martinez, and Andrew Nayenko, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) or [GNU GPLv3 or later](https://www.gnu.org/licenses/gpl.html)</small>
 
-* <small>["Tor and HTTPS" diagram](https://www.eff.org/pages/tor-and-https), Electronic Frontier Foundation, [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/)</small>
-
 ---
 <!-- page_number: false -->
 
 ### Sources (continued)
+
+* <small>["Tor and HTTPS" diagram](https://www.eff.org/pages/tor-and-https), Electronic Frontier Foundation, [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/)</small>
 
 * <small>Screenshot from ["The Internet: Encryption" video](https://www.youtube.com/watch?v=ZghMPWGXexs), Code.org</small>
 
@@ -920,16 +909,16 @@ The Web is for publishing _World Wide_.
 
 * <small>Screenshot from [Edward Snowden (anon108) GPG tutorial](https://vimeo.com/56881481)</small>
 
----
-<!-- page_number: false -->
-
-### Sources (continued)
-
 * <small>[Mozilla Thunderbird logo](https://www.mozilla.org/en-US/styleguide/identity/thunderbird/logo/), Mozilla Foundation, [CC BY 3.0](https://creativecommons.org/licenses/by-sa/3.0/) or [MPL 2](https://www.mozilla.org/en-US/MPL/2.0/)</small>
 
 * <small>["Evil Kermit" meme](http://knowyourmeme.com/memes/evil-kermit), based on [*Muppets Most Wanted*](https://en.wikipedia.org/wiki/Muppets_Most_Wanted) screenshot</small>
 
 * <small>The "portable cone of silence" from [*Get Smart*](https://en.wikipedia.org/wiki/Cone_of_Silence_(device))</small>
+
+---
+<!-- page_number: false -->
+
+### Sources (continued)
 
 * <small>[apt-get install anarchism](http://www.debian.ch/merchandise/), Chen-Da and Patrick, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) or [GNU LGPLv3 or later](http://www.gnu.org/copyleft/lgpl.html)</small>
 
