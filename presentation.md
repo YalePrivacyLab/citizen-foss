@@ -2,7 +2,7 @@
 #
 # Citizen ==FOSS==
 #### ***Snowden's toolkit — for the Rest of Us.***
-# ![600px center](images/privacylab_ghost.svg)
+# ![70% center](images/privacylab_ghost.png)
 <!-- Digital security icon -->
 ##### A Presentation &amp; Guide by Sean O'Brien
 
