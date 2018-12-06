@@ -4,9 +4,9 @@
 #### ***Snowden's toolkit — for the Rest of Us.***
 # ![70% center](images/privacylab_ghost.png)
 <!-- Digital security icon -->
-##### A Presentation &amp; Guide by Sean O'Brien
+#### A [Yale Privacy Lab]( https://privacylab.yale.edu) Tech Primer
 
-##### sean@webio.me | sean.obrien@yale.edu
+###### [@YalePrivacyLab](https://twitter.com/YalePrivacyLab) | [privacylab@mastodon.social](https://mastodon.social/@privacylab)
 
 ###### <span style="float:right;">[![](images/cc-by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)</span>
 <!-- Creative Commons Attribution-ShareAlike -->
@@ -28,15 +28,15 @@ _Synonyms:_ Software libre, FLOSS.
 >
 > And that’s because what happened in 2013 **would not have been possible without Free Software**. I did not use Windows machines when I was in my operational phase because I couldn’t trust them.
 
-<span style="float:right;">— Edward Snowden, _[keynote at LibrePlanet 2016](http://ioterror.com/items/show/34)_</span>
+<span style="float:right;">— Edward Snowden, _[LibrePlanet 2016](http://ioterror.com/items/show/34)_</span>
 
 ---
 <!-- page_number: true -->
 
-## These Slides are ==Detailed==<span style="float:right;">![50%](images/its-so-dense.jpg)</span>
+## These Slides are ==Detailed==<span style="float:right;">![48%](images/its-so-dense.jpg)</span>
 <!-- Rick McCallum explaining "every single image" from the Star Wars prequels -->
 Grab a copy of the presentation:
-[github.com/seandiggity/citizen-foss](https://github.com/seandiggity/citizen-foss)
+[github.com/YalePrivacyLab/citizen-foss](https://github.com/YalePrivacyLab/citizen-foss)
 
 Refer back to it later, read it slowly, &amp; click the links.
 
@@ -54,11 +54,11 @@ up, make a friend in the room and follow along.
 
 #### ==TL;DR== - Shorter, DIY Version<span style="float:right;">![70%](images/skip-all-the-things.png)</span>
 <!-- All The Things meme -->
-* <small>Watch these three videos on [privacy](https://www.youtube.com/watch?v=9I7AGRUPIIE), [Free Software](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society), and [Tor](https://www.youtube.com/watch?v=JWII85UlzKw).</small>
+* <small>Watch these 3 videos on [privacy](https://www.youtube.com/watch?v=AW7aU3zv-4M), [Free Software](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society), and [Tor](https://www.youtube.com/watch?v=JWII85UlzKw).</small>
 
 * <small>Try [Jitsi Meet](https://meet.jit.si/), [DuckDuckGo](https://duckduckgo.com/) or [StartPage](https://www.startpage.com/), and [Up1](https://share.riseup.net/).</small>
 
-* <small>Use [Cryptocat](https://crypto.cat/), [Ricochet](https://ricochet.im/), or [Tor Messenger](https://blog.torproject.org/blog/tor-messenger-020b2-released).</small>
+* <small>Use [Cryptocat](https://crypto.cat/), [Ricochet](https://ricochet.im/), or [Riot](https://riot.im).</small>
 
 * <small>Install [uBlock](https://www.ublock.org/) or [Adblock Plus](https://adblockplus.org/) and [HTTPS Everywhere](https://www.eff.org/https-everywhere).</small>
 
@@ -66,7 +66,7 @@ up, make a friend in the room and follow along.
 
 * <small>Try [Wire](https://wire.com/en/download/) on iOS and Android.</small>
 
-* <small>**Android only:** Install [F-Droid](https://f-droid.org/). Use [Orfox](https://onionshare.org/), [orWall](https://orwall.org/), [Silence](https://silence.im/).</small>
+* <small>**Android only:** Install [F-Droid](https://f-droid.org/). Use [Orfox](https://guardianproject.info/apps/orfox/), [Orbot](https://guardianproject.info/apps/orbot/), [Silence](https://silence.im/).</small>
 
 * <small>E-mail via [Tutanota](https://tutanota.com/) or [Protonmail](https://protonmail.com/), or [set up GPG+Enigmail](https://ssd.eff.org/en/searchapi?keys=how+to+pgp).</small>
 
@@ -84,8 +84,7 @@ If the pad name is guessed or shared, anyone can view it.</small>
 * [Riseup.net](https://riseup.net/) hosts awesome services.
 <small>Donate if you can, they almost had to shut down in 2016.</small>
 
-<small>Other options: [Riseup .onion Etherpad](http://5jp7xtmox6jyoqd5.onion) (Tor only)
-[Mozilla's public Etherpad](https://public.etherpad-mozilla.org/) | [Try Ethersheet for spreadsheets](https://ethersheet.org/)</small>
+<small>Other options: [Riseup .onion Etherpad](http://5jp7xtmox6jyoqd5.onion) (Tor only), [Cryptpad](https://cryptpad.fr)</small>
 
 ---
 <!-- *template: invert -->
@@ -93,9 +92,9 @@ If the pad name is guessed or shared, anyone can view it.</small>
 
 # Why ==Privacy Matters==
 #### It's not about "having something to hide"
-# [![80%](images/why-privacy-matters.png)](https://www.youtube.com/watch?v=9I7AGRUPIIE)
+# [![80%](images/why-privacy-matters.png)](https://www.youtube.com/watch?v=AW7aU3zv-4M)
 <!-- CyberSec101 "Why Privacy Matters" -->
-###### [Watch on YouTube:arrow_right:](https://www.youtube.com/watch?v=9I7AGRUPIIE) 
+###### [Watch on YouTube:arrow_right:](https://www.youtube.com/watch?v=AW7aU3zv-4M) 
 
 ---
 <!-- page_number: true -->
@@ -249,7 +248,7 @@ Check the settings and make sure you're not logging chats.</small>
 
 <small>**Set up OTR** for truly private XMPP. [Follow this OTR guide](https://riseup.net/en/otr)</small>
 
-**==Too complicated?==** Try [Ricochet](https://ricochet.im/) or [Tor Messenger](https://blog.torproject.org/blog/tor-messenger-020b2-released).
+**==Too complicated?==** Try [Ricochet](https://ricochet.im/).
 
 ---
 <!-- *template: invert -->
@@ -292,8 +291,7 @@ FOSS community reviews, &amp; online forums.
 
 ## ==Browser War==ning!<span style="float:right;">![47%](images/member-berries.png)</span>
 <!-- South Park member berries -->
-We'll focus on [Firefox](https://getfirefox.com/) <small>([Iceweasel/IceCat](https://en.wikipedia.org/wiki/Mozilla_software_rebranded_by_Debian#Iceweasel))</small>. 
-Mozilla [values privacy](https://www.mozilla.org/en-US/privacy/principles/) &amp; has a [solid track record](https://www.mozilla.org/en-US/about/history/).
+We'll focus on [Firefox](https://getfirefox.com/) (and [PureBrowser](https://www.pureos.net/) variant). Mozilla [values privacy](https://www.mozilla.org/en-US/privacy/principles/) &amp; has a [solid  record](https://www.mozilla.org/en-US/about/history/).
 
 <small>**Why not Google Chrome?** Most of the following tips will also work on Chrome &amp; [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser)) (100% FOSS version). Chrome contains **proprietary** code, has serious privacy issues, and reports back to Google several ways even if you try to opt out.</small>
 
@@ -334,7 +332,7 @@ casual communication is carefully studied.</small>
 `richard stallman !yt` <span style="margin-left:7%;">YouTube</span>
 `debian gnu linux !gi` <span style="margin-left:7%;">Google Images</span>
 
-Other search engines: [Startpage](https://startpage.com/) | [Disconnect](https://search.disconnect.me)
+Other options: [Qwant](https://qwant.com) | [Startpage](https://startpage.com/) | [Disconnect](https://search.disconnect.me)
 
 ---
 <!-- page_number: true -->
@@ -420,7 +418,7 @@ Other Deep Web networks: [I2P](https://geti2p.net/en/) &amp; [Freenet](https://f
 <small>**Do your homework before trusting any service.**  Choices:</small>
 <span style="margin-left:5%;">[Riseup Red](https://riseup.net/en/vpn/legacy) (legacy) | [Riseup Black](https://riseup.net/en/vpn)</span>
 
-<small>[PIA](https://www.privateinternetaccess.com/) | [VPN.ht](https://vpn.ht/) | [Doublehop](https://www.doublehop.me/) | [AceVPN](https://www.acevpn.com/) | [CyberGhost](https://www.cyberghostvpn.com) | [SumRando](https://sumrando.com)</small>
+<small>[Purism VPN](https://shop.puri.sm/shop/purist-vpn-tunnel-beta/) | [Private Internet Access](https://www.privateinternetaccess.com/) | [CyberGhost](https://www.cyberghostvpn.com)</small>
 
 ---
 <!-- *template: invert -->
@@ -528,13 +526,13 @@ Recall [Richard Stallman's TED Talk](https://www.youtube.com/watch?v=Ag1AKIl_2GM
 #### The GNU/Linux ==Distro== For You
 
 **Most ==libre==** <small>(no proprietary drivers, codecs, etc.)</small>
-<span style="margin-left:5%">[Trisquel](http://trisquel.info) | [gNewSense](http://www.gnewsense.org/) | [Guix](https://www.gnu.org/software/guix/) | [FSF list](https://www.gnu.org/distros/free-distros.html)</span>
+<span style="margin-left:5%">[PureOS](https://pureos.net) | [Trisquel](http://trisquel.info) | [gNewSense](http://www.gnewsense.org/) | [Guix](https://www.gnu.org/software/guix/) | [FSF list](https://www.gnu.org/distros/free-distros.html)</span>
 
-**Most ==popular==** <small>(big community == good support)</small>
-<span style="margin-left:5%">[Linux Mint](http://linuxmint.com/) | [Ubuntu](http://ubuntu.com/) | [Debian](http://debian.org) | [Fedora](https://fedoraproject.org)</span>
+**Very ==popular==** <small>(big community == good support)</small>
+<span style="margin-left:5%">[Debian](http://debian.org) | [Ubuntu](http://ubuntu.com/) | [Linux Mint](http://linuxmint.com/) | [Fedora](https://fedoraproject.org)</span>
 
 **Some "==favorites=="** <small>(list changes frequently)</small>
-<span style="margin-left:5%">[Xubuntu](http://xubuntu.org/) | [Korora](https://kororaproject.org/) | [Manjaro](http://manjaro.org/) | [Elementary](http://elementaryos.org)</span>
+<span style="margin-left:5%">[Ubuntu MATE](https://ubuntu-mate.org) | [Xubuntu](http://xubuntu.org/) | [Korora](https://kororaproject.org/) | [Elementary](http://elementaryos.org)</span>
 
 **==Lightweight==** <small>(for aging computers)</small> <span style="margin-left:%">[wattOS](http://planetwatt.com/new/) | [Bunsenlabs](https://www.bunsenlabs.org/)</span>
 **Very ==secure==** <small>(not for n00bs)</small> <span style="margin-left:%">[Qubes](https://qubes-os.org/) | [Subgraph](https://subgraph.com/)</span>
@@ -558,7 +556,7 @@ Let's concentrate on ==Android== variants, which are based upon GNU/Linux.
 <!-- page_number: true -->
 
 ### There is a world <span style="color:#ffeeb5;">beyond Google</span>.
-### [![32%](images/phone-screenshot.png)](https://copperhead.co/android/)
+### [![32%](images/phone-screenshot.png)](https://lineageos.org)
 <!-- screenshot of AOSP with no Google services, F-Droid, Orbot, etc. -->
 
 ---
@@ -568,11 +566,17 @@ Let's concentrate on ==Android== variants, which are based upon GNU/Linux.
 ## Finding a ==ROM==
 ROMs in the ==modding== community are loosely equivalent to distros / ==firmware==.
 
-* **[Copperhead OS](https://copperhead.co/android/)** - Security is the priority. Only for Nexus phones. [Tor Prototype](https://github.com/mikeperry-tor/mission-improbable/) available.
 
-* **[Lineage](http://lineageos.org/Yes-this-is-us/) or [OmniROM](https://omnirom.org/)** - Installs on many devices.
+
+* **[Lineage](http://lineageos.org) or [OmniROM](https://omnirom.org/)** - Installs on many devices.
 
 * **[XDA-Developers Forum](http://forum.xda-developers.com/)** - More alternatives.
+
+#### Non-Android GNU/Linux Devices
+
+* **[Librem 5](https://puri.sm/products/librem-5/)** - Secure phone coming in 2019.
+
+* **["New Wave" GNU/Linux Phones](https://www.linux.com/blog/2017/9/librem-5-leads-new-wave-open-source-mobile-linux-contenders)** - More options.
 
 ---
 <!-- page_number: true -->
@@ -604,13 +608,13 @@ Root ==**may**== be needed ==**temporarily**== to free your device. ROMs usually
 
 <small>**2.** [Add the **Guardian Project** repository](https://guardianproject.info/fdroid/) in F-Droid. GP offers privacy apps like [ObscuraCam](https://guardianproject.info/apps/obscuracam/).</small>
 
-<small>**3.** Install [**orWall**](https://orwall.org/) &amp; [**Orfox**](https://guardianproject.info/apps/orfox/), Tor and Tor Browser for Android.</small>
+<small>**3.** Install [**Orbot**](https://guardianproject.info/apps/orbot/) &amp; [**Orfox**](https://guardianproject.info/apps/orfox/), Tor and Tor Browser for Android.</small>
 
 <small>**4.** Try [**Silence**](https://silence.im/) &amp; [**Wire**](https://wire.com/en/download/). Silence enables encrypted SMS/text. Wire is a full-featured text and voice chat app like Signal.</small>
 
 <small>**5.** Search for other [**FOSS apps**](https://f-droid.org/repository/browse/), like [ad blockers](https://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android).</small>
 
-<small><small>**What about [Signal](https://whispersystems.org/)?** [Noise](https://copperhead.co/android/docs/usage_guide) is available through an [F-Droid repo](https://copperhead.co/android/docs/usage_guide) and doesn't require proprietary Google services like Signal does.</small></small>
+<small>**5.** Look for other [E2EE](https://en.wikipedia.org/wiki/End-to-end_encryption) apps around the Web like **[Signal](https://signal.org)**.</small>
 
 ---
 <!-- page_number: true -->
