@@ -1,3 +1,4 @@
+
 <!-- $theme: gaia -->
 #
 # Citizen ==FOSS==
@@ -54,13 +55,13 @@ up, make a friend in the room and follow along.
 
 #### ==TL;DR== - Shorter, DIY Version<span style="float:right;">![70%](images/skip-all-the-things.png)</span>
 <!-- All The Things meme -->
-* <small>Watch these 3 videos on [privacy](https://www.youtube.com/watch?v=AW7aU3zv-4M), [Free Software](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society), and [Tor](https://www.youtube.com/watch?v=JWII85UlzKw).</small>
+* <small>Watch these 3 videos on [Privacy](https://www.youtube.com/watch?v=AW7aU3zv-4M), [Free Software](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society), and [Tor](https://www.youtube.com/watch?v=JWII85UlzKw).</small>
 
 * <small>Try [Jitsi Meet](https://meet.jit.si/), [DuckDuckGo](https://duckduckgo.com/) or [StartPage](https://www.startpage.com/), and [Up1](https://share.riseup.net/).</small>
 
-* <small>Use [Cryptocat](https://crypto.cat/), [Ricochet](https://ricochet.im/), or [Riot](https://riot.im).</small>
+* <small>Use [Ricochet](https://ricochet.im/) or [Riot](https://riot.im).</small>
 
-* <small>Install [uBlock](https://www.ublock.org/) or [Adblock Plus](https://adblockplus.org/) and [HTTPS Everywhere](https://www.eff.org/https-everywhere).</small>
+* <small>Install [uBlock](https://www.ublock.org/) or [Privacy Badger](https://www.eff.org/privacybadger), and [HTTPS Everywhere](https://www.eff.org/https-everywhere).</small>
 
 * <small>Browse with [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) and use [OnionShare](https://onionshare.org/).</small>
 
@@ -158,7 +159,7 @@ Some U.S. corporations now encrypt some communication, making ==mass surveillanc
 * <small>Why trust these companies? 
 Fool me twice, shame on me.</small>
 
-* <small>On Facebook &amp; WhatsApp, your **metadata** and **social graph** are stored &amp; studied. WhatsApp may have a [spy backdoor](https://www.theguardian.com/technology/2017/jan/16/whatsapp-vulnerability-facebook).</small>
+* <small>On Facebook &amp; WhatsApp, your **metadata** and **social graph** are stored &amp; studied. WhatsApp has a [spy backdoor](https://www.theguardian.com/technology/2019/may/14/whatsapp-spyware-vulnerability-targeted-lawyer-says-attempt-was-desperate).</small>
 
 * <small>Apple knows **who** you talk to, even when they don't know **what** you say to them.</small>
 
@@ -180,8 +181,7 @@ This data can be used for ==targeted surveillance== by [police and intelligence 
 ###### <small>...this chat room will self‐destruct when everyone leaves.</small>
 <span style="float:right;">[![50%](images/jitsi-muppets.jpg)](https://meet.jit.si/)</span>
 <!-- Muppets using Jitsi Meet -->
-* <small>[Peer-to-Peer](https://en.wikipedia.org/wiki/Peer-to-peer) and 
-[End-to-End Encryption](https://en.wikipedia.org/wiki/End-to-end_encryption)</small>
+* <small>[Peer-to-Peer](https://en.wikipedia.org/wiki/Peer-to-peer)</small>
 
 * <small>Password-protected rooms, no user limit, screen sharing</small>
 
@@ -196,8 +196,7 @@ Other ==WebRTC== options: [appear.in](https://appear.in/) | [Talky](https://talk
 <!-- Spiderman meme -->
 ##### Establishing a trusted connection
 
-Privacy tools require ==trust== and a ==shared secret==. That secret could be a username, a
-URL, a passphrase, or an encryption key.
+Privacy tools require ==trust== and a ==shared secret==. That secret could be a username, a URL, a passphrase, or an encryption key.
 
 * <small>Share a secret using tools you learn about today.</small>
 
@@ -210,30 +209,7 @@ URL, a passphrase, or an encryption key.
 _(we'll cover this later)_.</small>
 
 ---
-<!-- *template: gaia -->
-<!-- page_number: false -->
 
-# Demonstration:
-#### Chatting with
-# [<span style="color:#ffeeb5;">Cryptocat</span>](https://crypto.cat/)
-
----
-<!-- page_number: true -->
-
-# Secure ==Instant Messaging==
-#### Download &amp; install from [https://crypto.cat](https://crypto.cat/)
-Choose a (non-identifying) username. Share it
-with the person to your left, add them as a buddy.<span style="float:right;margin-top:12px;">[![72%](images/cryptocat.png)](https://crypto.cat/)</span>
-<!-- Cryptocat screenshot -->
-
-* <small>[End-to-End Encryption](https://en.wikipedia.org/wiki/End-to-end_encryption) and 
-[Forward Secrecy](https://en.wikipedia.org/wiki/Forward_secrecy)</small>
-
-* <small>File sharing, including video and large files (though it may be slow).</small>
-
-* <small>[Longer history](https://crypto.cat/news.html#nytltr) than many private chat apps.  Actively responds to audits, vulns, criticism.</small>
-
----
 <!-- page_number: true -->
 
 <span style="float:right;">![32%](images/tuxes.png)</span>
@@ -276,7 +252,7 @@ FOSS community reviews, &amp; online forums.
 
 * Look for [warrant canaries](https://www.eff.org/deeplinks/2016/05/canary-watch-one-year-later) &amp; transparency reports.
 
-* Browse [Tactical Tech](https://tacticaltech.org/) &amp; resources listed later.
+* Browse [Tactical Tech](https://tacticaltech.org/), [AlternativeTo](https://alternativeto.net/) &amp; resources listed later.
 
 ---
 <!-- *template: gaia -->
@@ -304,7 +280,7 @@ We'll focus on [Firefox](https://getfirefox.com/) (and [PureBrowser](https://www
 <!-- Heisenberg sketch from Breaking Bad -->
 Try these addons &amp; tweak the settings.
 [How to install](http://www.wikihow.com/Enable-Add-Ons) | [How to remove addons](http://www.wikihow.com/Disable-Add-Ons)
-* <small>**Essential:** [uBlock](https://www.ublock.org/) or [Adblock Plus](https://adblockplus.org/), [HTTPS Everywhere](https://www.eff.org/https-everywhere)</small>
+* <small>**Essential:** [uBlock](https://www.ublock.org/) or [Privacy Badger](https://www.eff.org/privacybadger), [HTTPS Everywhere](https://www.eff.org/https-everywhere)</small>
 
 * <small>**Recommended:** [DuckDuckGo Plus](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/), [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)</small>
 
@@ -312,8 +288,8 @@ Try these addons &amp; tweak the settings.
 
 * <small>**For the Adventurous:** [NoScript](https://noscript.net/) (turns off all JavaScript)</small>
 
-* <small>**Facebook users:** [FacebookBlocker](http://www.webgraph.com/resources/facebookblocker/), [Facebook Disconnect
-](https://addons.mozilla.org/en-US/firefox/addon/facebook-disconnect/)==Warning:== Facebook is a surveillance network and even
+* <small>**Facebook users:** [FacebookBlocker](https://addons.mozilla.org/en-US/firefox/addon/facebook_blocker/), [Facebook Disconnect
+](https://addons.mozilla.org/en-US/firefox/addon/facebook-disconnect-ii/)==Warning:== Facebook is a surveillance network and even
 casual communication is carefully studied.</small>
 
 ---
@@ -378,7 +354,7 @@ Here are some password strength, storage, and retention strategies.
 
 **Tor is the standard for anonymity.**
 <small>The Tor network thwarts the NSA's best efforts to
-break it (we know this [thanks to Snowden](https://www.theguardian.com/world/interactive/2013/oct/04/tor-stinks-nsa-presentation-document)).</small>
+break it (we know this [thanks to Snowden](https://edwardsnowden.com/2013/10/04/tor-stinks-presentation/).</small>
 
 * <small>**==However:==** Using Tor is not a magic bullet. Vulnerabilities may occur over time, so  **update often** (TBB will nag you!)</small>
 
@@ -416,7 +392,7 @@ Other Deep Web networks: [I2P](https://geti2p.net/en/) &amp; [Freenet](https://f
 * You can use [Tor over a VPN](https://www.bestvpn.com/blog/39799/5-best-vpns-when-using-tor/)
 
 <small>**Do your homework before trusting any service.**  Choices:</small>
-<span style="margin-left:5%;">[Riseup Red](https://riseup.net/en/vpn/legacy) (legacy) | [Riseup Black](https://riseup.net/en/vpn)</span>
+<span style="margin-left:5%;">[Riseup Red](https://riseup.net/en/vpn/vpn-red) (legacy) | [Riseup Black](https://riseup.net/en/vpn)</span>
 
 <small>[Purism VPN](https://shop.puri.sm/shop/purist-vpn-tunnel-beta/) | [Private Internet Access](https://www.privateinternetaccess.com/) | [CyberGhost](https://www.cyberghostvpn.com)</small>
 
@@ -501,7 +477,7 @@ Recall [Richard Stallman's TED Talk](https://www.youtube.com/watch?v=Ag1AKIl_2GM
 <!-- page_number: true -->
 
 ### What Can the =="Average User"== Do?
-**Try [GNU/Linux](https://en.wikipedia.org/wiki/Linux#Desktop)**, a popular &amp; friendly family of FOSS operating systems. ==Tails== is only one member of this family, and may not fit your [threat model](https://blog.yourultimatesecurity.guide/2016/04/threat-modeling-an-introduction/). 
+**Try [GNU/Linux](https://en.wikipedia.org/wiki/Linux#Desktop)**, a popular &amp; friendly family of FOSS operating systems. ==Tails== is only one member of this family, and may not fit your [threat model](https://alexgaynor.net/2016/jul/29/intro-to-threat-modeling/). 
 <span style="float:right;">[![55%](images/gnu-linux.png)](https://www.youtube.com/watch?v=k84FMc1GF8M)</span><!-- Linux kernel's Tux and the GNU Gnu -->
 
 * <small>GNU/Linux is installed on billions of [Web servers](https://w3techs.com/technologies/details/os-linux/all/all), [IoT devices](https://www.ubuntu.com/internet-of-things), supercomputers, TVs, media centers, phones, tablets, &amp; gadgets.</small>
@@ -650,7 +626,7 @@ Your gateway to the Internet may be insecure. Default router / modem firmware [h
 
 * <small>[Android](https://source.android.com/security/encryption/full-disk.html) &amp; variants also have [full-disk encryption](http://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/).</small>
 
-* <small>[VeraCrypt](https://veracrypt.codeplex.com/) is great for Desktop OS's and [USB flash drives](https://veracrypt.codeplex.com/wikipage?title=Beginner%27s%20Tutorial).</small>
+* <small>[VeraCrypt](https://www.veracrypt.fr/en/Home.html) is great for Desktop OS's and USB flash drives.</small>
 
 * <small>Full-disk &amp; [home directory](https://askubuntu.com/questions/37/when-installing-im-given-the-option-of-encrypting-my-home-folder-what-does-t) encryption are [easy checkbox choices](https://www.eff.org/deeplinks/2012/11/privacy-ubuntu-1210-full-disk-encryption) when installing all major GNU/Linux distros.</small>
  
@@ -734,7 +710,7 @@ Expect large, consistent ==data breaches==.
 
 <span style="margin-left:5%;">**[GNU/Linux](https://ssd.eff.org/en/module/how-use-pgp-linux)** | **[MacOS](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x)** | **[Windows](https://ssd.eff.org/en/module/how-use-pgp-windows)**</span>
 
-<small>**E-mail Hosts:** Try [Riseup](https://user.riseup.net/forms/new_user/first) or [Mailfence](http://mailfence.com/), or [browse this list](http://www.emailquestions.com/encrypted-email-service-providers/).
+<small>**E-mail Hosts:** Try [Riseup](https://user.riseup.net/forms/new_user/first) or [Mailfence](http://mailfence.com/).
 Mailfence has easy Gmail, Yahoo!, &amp; Office365 import, quick [GPG setup](https://www.mailfence.com/c/mailfence/more/crypto.jsp), and has [calendar / document sharing](https://blog.mailfence.com/secure-document-sharing/). Some features require paid account.</small>
 
 ---
@@ -752,11 +728,9 @@ The Web is for publishing _World Wide_.
 <small>Find trustworthy hosting for **[Websites](https://drupal.org), [Blogs](https://wordpress.org), [Wikis](https://mediawiki.org) &amp; [Classes](https://moodle.org)**.</small>
 * <small>[MayFirst](https://mayfirst.org) is great for activists and has [defense from DDoS](https://deflect.ca/).</small>
 
-* <small>[Whitelist Tor visitors](https://on1on.cf) if you use CloudFlare.</small>
+* <small>[Whitelist Tor visitors](https://support.cloudflare.com/hc/en-us/articles/201897700-Whitelisting-Cloudflare-IP-addresses) if you use CloudFlare.</small>
 
 * <small>Set up ==SSL/TLS== via [Let's Encrypt](https://letsencrypt.org/) to protect your users.</small>
-
-* <small>Don't force users into [ad networks](https://help.medium.com/hc/en-us/articles/224601547-Ads-on-Medium) just to view &amp; comment.</small>
 
 ---
 <!-- *template: invert -->
@@ -827,8 +801,6 @@ The Web is for publishing _World Wide_.
 * <small>Screenshot of [Jitsi Meet](https://meet.jit.si) with Animal and Kermit from *The Muppets*</small>
 
 * <small>[Spider-Man meme](http://knowyourmeme.com/memes/60s-spider-man), based on 60's animated series</small>
-
-* <small>[Screenshot of Cryptocat](https://commons.wikimedia.org/wiki/File:ChatWindow.png), Nadim Kobeissi, public domain</small>
 
 * <small>["See no, Hear no, Speak no" penguins](http://truckitos.es.tl/Galeria/kat-1-1.htm), Crystal Icons by Everaldo Coelho, [GNU LGPLv2 or later](http://www.gnu.org/copyleft/lgpl.html)</small>
 
