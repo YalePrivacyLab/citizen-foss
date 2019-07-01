@@ -29,7 +29,7 @@ _Synonyms:_ Software libre, FLOSS.
 >
 > And that’s because what happened in 2013 **would not have been possible without Free Software**. I did not use Windows machines when I was in my operational phase because I couldn’t trust them.
 
-<span style="float:right;">— Edward Snowden, _[LibrePlanet 2016](http://ioterror.com/items/show/34)_</span>
+<span style="float:right;">— Edward Snowden, _[LibrePlanet 2016](http://ioterror.com/items/show/34)_</span> 
 
 ---
 <!-- page_number: true -->
